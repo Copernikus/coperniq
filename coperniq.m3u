@@ -5,16 +5,10 @@ https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 #EXTINF:-1 tvg-name="Star TV"tvg-id="StarTV.tr"tvg-logo="https://i.imgur.com/le0hb7q.png"group-title="ULUSAL",Star TV
 https://dogus-live.daioncdn.net/startv/startv.m3u8
-#EXTINF:-1 tvg-name="Now0"tvg-id="Now.tr"tvg-logo="https://logowik.com/content/uploads/images/now-tv-red26275.logowik.com.webp"group-title="ULUSAL",Now0
+#EXTINF:-1 tvg-name="Now"tvg-id="Now.tr"tvg-logo="https://logowik.com/content/uploads/images/now-tv-red26275.logowik.com.webp"group-title="ULUSAL",Now
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
-#EXTINF:-1 tvg-name="Now1"tvg-id="Now.tr"tvg-logo="https://logowik.com/content/uploads/images/now-tv-red26275.logowik.com.webp"group-title="ULUSAL",Now1
-http://hw1.jemtv.com/app/FoxTurkey/playlist.m3u
-#EXTINF:-1 tvg-name="Now2"tvg-id="Now.tr"tvg-logo="https://logowik.com/content/uploads/images/now-tv-red26275.logowik.com.webp"group-title="ULUSAL",Now2
-https://mnorigin-ank-1.mncdn.com/test/live_720p.m3u8
-#EXTINF:-1 tvg-name="Now3"tvg-id="Now.tr"tvg-logo="https://logowik.com/content/uploads/images/now-tv-red26275.logowik.com.webp"group-title="ULUSAL",Now3
+#EXTINF:-1 tvg-name="Now Yedek"tvg-id="Now.tr"tvg-logo="https://logowik.com/content/uploads/images/now-tv-red26275.logowik.com.webp"group-title="ULUSAL",Now Yedek
 https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=cklbIdoM-9v2D73lbW2xJA&e=1712182770
-#EXTINF:-1 tvg-name="Now2"tvg-id="Now.tr"tvg-logo="https://logowik.com/content/uploads/images/now-tv-red26275.logowik.com.webp"group-title="ULUSAL",Now4
-https://new.cache-stream.workers.dev/stream/UCJe13zu6MyE6Oueac41KAqg/live.m3u8
 #EXTINF:-1 tvg-name="ATV"tvg-id="ATV.tr"tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/aHD_250x150.png"group-title="ULUSAL",ATV
 http://stream.tvcdn.net/ulusal/atv.m3u8
 #EXTINF:-1 tvg-name="TLC Turkey"tvg-id="TLCTurkey.tr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png"group-title="BELGESEL",TLC
@@ -29,8 +23,10 @@ https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 https://dogus-live.daioncdn.net/dmax/dmax.m3u8
 #EXTINF:-1 tvg-name="DMAX Turkey HD"tvg-id="DMAXTurkeyHD.tr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DMAX_BLACK.svg/512px-DMAX_BLACK.svg.png"group-title="BELGESEL",DMAX HD
 http://canli.haber365.com.tr/tr/dmax/index.m3u8
-#EXTINF:-1 tvg-name="SuperTurk TV"tvg-id="SuperTurkTV.tr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DMAX_BLACK.svg/512px-DMAX_BLACK.svg.png"group-title="BELGESEL",SuperTurk HD
+#EXTINF:-1 tvg-name="SuperTurk TV"tvg-id="SuperTurkTV.tr"tvg-logo="https://pbs.twimg.com/media/F-QH1TMXQAAHhKy.png"group-title="BELGESEL",SuperTurk TV
 http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
+#EXTINF:-1 tvg-name="SuperTurk Max"tvg-id="SuperTurkTV.tr"tvg-logo="https://pbs.twimg.com/media/F-QH1TMXQAAHhKy.png"group-title="BELGESEL",SuperTurk MAX
+http://75.119.144.48/SUPERTURK_MAX_HD/index.m3u8
 #EXTINF:-1 tvg-name="ShowMax"tvg-id="ShowMAX.tr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DMAX_BLACK.svg/512px-DMAX_BLACK.svg.png"group-title="BELGESEL",SHOWMAX
 http://stream.tvcdn.net/eglence/show-max.m3u8
 #EXTINF:-1 tvg-name="Bloomberg HT"tvg-id="BloombergHT.tr"tvg-logo="https://www.lyngsat.com/logo/tv/bb/bloomberg-ht-us-tr.png"group-title="HABER",Bloomberg HT
