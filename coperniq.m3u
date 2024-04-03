@@ -53,8 +53,7 @@ https://trthaber.blutv.com/blutv_trthaber_live/live.m3u8
 https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="TRT Çocuk"tvg-id="TRTÇocuk.tr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/TRT_%C3%A7ocuk_logo.png"group-title="ÇOCUK",TRT Çocuk
 http://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
-
-#EXTINF:-1 group-title="|EU|🇪🇺 EUROPEAN COCKTAILTOUR🍸",--- |RO:🇷🇴 ROMANIA| ---
+#EXTINF:-1 group-title="ROMANIA",--- |ROMANIA| ---
 http://blank
 #EXTINF:-1 tvg-logo="https://i.ibb.co/w46x9LM/tvri.png",TVR INT
 https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/index.m3u8
@@ -66,8 +65,7 @@ https://live3vox.antenaplay.ro/a3free/a3free.m3u8
 https://stream1.kanald.ro/iphone/knd-live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gMNsZPf/kd2ro.png",KANAL D2 RO
 https://stream2.kanald.ro/iphone/knd-live.m3u8
-
-#EXTINF:-1 group-title="|WORLDWIDE-INTL ℹ️🌐|"
+#EXTINF:-1 group-title="|WORLDWIDE-INTL|",--- |WORLDWIDE NEWS| ---
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png",CNN INT
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hdBrzcc/fox.png",FOX NEWS
@@ -90,30 +88,29 @@ https://bloomberg-bloombergtv-5-eu.plex.wurl.tv/playlist.m3u8
 https://ab1455372fed47d8a88264bab4831d5c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_QuickTake-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R4xVMYc/enews.png",EURONEWS EN
 https://62d77612985e4978b5cec13c47c897b5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_EuroNewsLive-1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mywSdSQ/att.png" group-title="|MUSIC|"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mywSdSQ/att.png" group-title="|MUSIC|",--- |MUSIC CHANNELS| ---
 https://github.com/ipstreet312/freeiptv/raw/master/ressources/infos/barkers/blogv.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6t2ztJT/dlxmsc.png",DELUXE MUSIC English
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jZWbT2g/dlxfbk.png",DELUXE MUSIC⭐ Flash Back
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jZWbT2g/dlxfbk.png",DELUXE MUSIC Flash Back
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65185/65185_264_live.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2ks2Ys7/dlxdnc.png",DELUXE MUSIC⭐ Dance
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2ks2Ys7/dlxdnc.png",DELUXE MUSIC Dance
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WBKwntS/dlxrap.png",DELUXE MUSIC⭐ Rap
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WBKwntS/dlxrap.png",DELUXE MUSIC Rap
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mDFLYx3/dlxrck.png",DELUXE MUSIC⭐ Rock
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mDFLYx3/dlxrck.png",DELUXE MUSIC Rock
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65181/65181_264_live.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TmL52ct/dlxde.png",DELUXE MUSIC⭐ Deutsch Schlager
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TmL52ct/dlxde.png",DELUXE MUSIC Deutsch Schlager
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6RvHVvn/dlxdtschpp.png",DELUXE MUSIC⭐ Deutsch Pop
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RvHVvn/dlxdtschpp.png",DELUXE MUSIC Deutsch Pop
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/95d6544c-4164-11ec-9c7c-2cf753b8a203/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1KhQxpd/dlxwnt.png",DELUXE MUSIC⭐ Winter Time
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1KhQxpd/dlxwnt.png",DELUXE MUSIC Winter Time
 https://d2l1hs6hxlg3df.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pb0nloqsgtwc2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RpfpWkr/dlxlng.png",DELUXE MUSIC⭐ Lounge
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RpfpWkr/dlxlng.png",DELUXE MUSIC Lounge
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2664
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RpfpWkr/dlxlng.png",DELUXE MUSIC⭐ Lounge
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RpfpWkr/dlxlng.png",DELUXE MUSIC Lounge
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2489
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pKt53kX/dl1.png",DELUXE MUSIC⭐ Lounge Extra
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pKt53kX/dl1.png",DELUXE MUSIC Lounge Extra
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/8ef13d2a-80c1-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=FR&vendor=samsung
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pKt53kX/dl1.png",DELUXE MUSIC⭐ Lounge Extra
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pKt53kX/dl1.png",DELUXE MUSIC Lounge Extra
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/ec8e5c43-6fae-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung
