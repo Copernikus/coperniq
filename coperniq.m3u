@@ -93,6 +93,22 @@ http://iptvtree.net:8080/d1823794/40bcdac324/1850
 http://iptvtree.net:8080/d1823794/40bcdac324/278570
 #EXTINF:-1 tvg-id="disneychannel.tr" tvg-name="TR: Disney Junior" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d4bfb7096c986189cad4c27667329846.png" tvg-id2="" group-title="🇹🇷 [01] Türk: Çocuk:",TR: Disney Junior
 http://iptvtree.net:8080/d1823794/40bcdac324/633
+#EXTINF:-1 tvg-id="" tvg-name="TR: Manisa TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/1f071b604362eab2378fe007d1806d9a.png" tvg-id2="" group-title="🇹🇷 [01] Türk: Çocuk:",TR: Manisa TV
+http://iptvtree.net:8080/d1823794/40bcdac324/286869
+#EXTINF:-1 tvg-id="" tvg-name="TR: Minika Cocuk" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/cd6373e1045f15e3cb8f3b5afd4c7987.png" tvg-id2="" group-title="🇹🇷 [01] Türk: Çocuk:",TR: Minika Cocuk
+http://iptvtree.net:8080/d1823794/40bcdac324/671
+#EXTINF:-1 tvg-id="minikago.tr" tvg-name="TR: Minika Go" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/49feee293730b6b2172e746bb4a2a811.png" tvg-id2="" group-title="🇹🇷 [01] Türk: Çocuk:",TR: Minika Go
+http://iptvtree.net:8080/d1823794/40bcdac324/662
+#EXTINF:-1 tvg-id="" tvg-name="TR: Nick Junior" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d17ee4121212f3d15a6d3e96e1b78e6b.png" tvg-id2="" group-title="🇹🇷 [01] Türk: Çocuk:",TR: Nick Junior
+http://iptvtree.net:8080/d1823794/40bcdac324/675
+#EXTINF:-1 tvg-id="" tvg-name="TR: nickelodeon" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/daa5f52e567a2b32067451aede36afc7.png" tvg-id2="" group-title="🇹🇷 [01] Türk: Çocuk:",TR: nickelodeon
+http://iptvtree.net:8080/d1823794/40bcdac324/278469
+#EXTINF:-1 tvg-id="trtcocuk.tr" tvg-name="TR: TRT Cocuk" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4c97918044ad2996399fd692049b7397.png" tvg-id2="" group-title="🇹🇷 [01] Türk: Çocuk:",TR: TRT Cocuk
+http://iptvtree.net:8080/d1823794/40bcdac324/629
+#EXTINF:-1 tvg-id="" tvg-name="TR: Zarok TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8bedf2978f03f6bbc9a630a56d8fbc45.png" tvg-id2="" group-title="🇹🇷 [01] Türk: Çocuk:",TR: Zarok TV
+http://iptvtree.net:8080/d1823794/40bcdac324/14893
+#EXTINF:-1 tvg-id="" tvg-name="TR: Çocuk Smart" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ea19100b30aec6cd0d72047356274356.png" tvg-id2="" group-title="🇹🇷 [01] Türk: Çocuk:",TR: Çocuk Smart
+http://iptvtree.net:8080/d1823794/40bcdac324/1851
 
 #EXTINF:-1 --- |ROMANIA| ---
 #EXTINF:-1 tvg-logo="https://i.ibb.co/w46x9LM/tvri.png",TVR INT
