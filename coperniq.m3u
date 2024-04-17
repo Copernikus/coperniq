@@ -55,6 +55,7 @@ https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
 http://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e5f501cc-df6b-4b93-b06b-175c6b32cfa5.png" group-title="DİĞER",Kişisel Gelişim TV
 http://stream.tvcdn.net/diger/kisisel-gelisim-tv.m3u8
+
 #EXTINF:-1 --- |TÜRK FİLMLERİ| ---
 #EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/6ec6e894-25f3-4432-8cb3-dbd2ff783842.png" group-title="FILM",Şaban TV
 http://stream.tvcdn.net/diger-eglence/saban-tv.m3u8
@@ -74,6 +75,24 @@ http://stream.tvcdn.net/diger-eglence/yansima-sinema-tv.m3u8
 http://stream.tvcdn.net/diger-eglence/zeki-metin.m3u8
 #EXTINF:1,tvg-id="Şirinler YOUTUBE",tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyhg8n4CIyUnK4XmFakksg1F2MsyZSnLzNzso5t1TwLQ&s"group-title="FILM",Şirinler
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/sirinler.m3u8
+
+#EXTINF:-1 --- |ÇOCUK KANALLARI| ---
+#EXTINF:-1 tvg-id="babytv.tr" tvg-name="TR: Baby TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fffb2b8070bf9f6d1fb83b084f3e2964.png" tvg-id2="" group-title="🇹🇷 [01] Türk: Çocuk:",TR: Baby TV
+http://iptvtree.net:8080/d1823794/40bcdac324/634
+#EXTINF:-1 tvg-id="" tvg-name="TR: Boomerang" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/51dcf23cb9d1f7f16b31373e2e17aa16.png" tvg-id2="" group-title="🇹🇷 [01] Türk: Çocuk:",TR: Boomerang
+http://iptvtree.net:8080/d1823794/40bcdac324/672
+#EXTINF:-1 tvg-id="" tvg-name="TR: Caillou" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/9e1d0ba765969dbf56cc3ee9338a9cfc.png" tvg-id2="" group-title="🇹🇷 [01] Türk: Çocuk:",TR: Caillou
+http://iptvtree.net:8080/d1823794/40bcdac324/192581
+#EXTINF:-1 tvg-id="cartoonnetwork.tr" tvg-name="TR: Cartoon Network" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/87598c365695f0ec0734167340a7fbdf.png" tvg-id2="" group-title="🇹🇷 [01] Türk: Çocuk:",TR: Cartoon Network
+http://iptvtree.net:8080/d1823794/40bcdac324/8261
+#EXTINF:-1 tvg-id="" tvg-name="TR: CBeebies" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/35d0a04a7465ffb538cc90693a6704b8.png" tvg-id2="" group-title="🇹🇷 [01] Türk: Çocuk:",TR: CBeebies
+http://iptvtree.net:8080/d1823794/40bcdac324/1844
+#EXTINF:-1 tvg-id="" tvg-name="TR: Da Vinci" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/335e4ee4cc0197611dddcc8a6110be6d.png" tvg-id2="" group-title="🇹🇷 [01] Türk: Çocuk:",TR: Da Vinci
+http://iptvtree.net:8080/d1823794/40bcdac324/1850
+#EXTINF:-1 tvg-id="" tvg-name="TR: Disney Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4b7ef9e32b9c4d64adc3330352ac327f.png" tvg-id2="" group-title="🇹🇷 [01] Türk: Çocuk:",TR: Disney Channel
+http://iptvtree.net:8080/d1823794/40bcdac324/278570
+#EXTINF:-1 tvg-id="disneychannel.tr" tvg-name="TR: Disney Junior" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d4bfb7096c986189cad4c27667329846.png" tvg-id2="" group-title="🇹🇷 [01] Türk: Çocuk:",TR: Disney Junior
+http://iptvtree.net:8080/d1823794/40bcdac324/633
 
 #EXTINF:-1 --- |ROMANIA| ---
 #EXTINF:-1 tvg-logo="https://i.ibb.co/w46x9LM/tvri.png",TVR INT
