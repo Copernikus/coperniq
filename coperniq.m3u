@@ -75,36 +75,7 @@ http://stream.tvcdn.net/diger-eglence/tivi-191.m3u8
 http://stream.tvcdn.net/diger-eglence/yansima-sinema-tv.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/07d81c3b-e207-4558-b7c5-e38280f06bf0.png" group-title="FILM",Zeki & Metin 
 http://stream.tvcdn.net/diger-eglence/zeki-metin.m3u8
-#EXTINF:-1 tvg-id="beinboxoffice1.tr" tvg-name="TR: beIN Box Office 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/bd21663ad8c4d4c1ac6440b3f40ba746.png" tvg-id2="" group-title="FILM",TR: beIN Box Office 1
-http://iptvtree.net:8080/d1823794/40bcdac324/536
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Box Office 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/adea4a88280fb88d0c2232343a33a69e.png" tvg-id2="" group-title="FILM",TR: beIN Box Office 2
-http://iptvtree.net:8080/d1823794/40bcdac324/281863
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Box Office 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/661d76fd2683c5c3a355f92d2e71afc5.png" tvg-id2="" group-title="FILM",TR: beIN Box Office 3
-http://iptvtree.net:8080/d1823794/40bcdac324/538
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Box Office Turk" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/f35c4aa1c5be07033c105aa2a264ee99.png" tvg-id2="" group-title="FILM",TR: beIN Box Office Turk
-http://iptvtree.net:8080/d1823794/40bcdac324/539
-#EXTINF:-1 tvg-id="beinmoviesaction.tr" tvg-name="TR: beIN Film:s Action" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ca1d2bb923338f5d520918b981135d91.png" tvg-id2="" group-title="FILM",TR: beIN Film:s Action
-http://iptvtree.net:8080/d1823794/40bcdac324/1761
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Film:s Action 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0c72fbf1b70577e54df906132c848507.png" tvg-id2="" group-title="FILM",TR: beIN Film:s Action 2
-http://iptvtree.net:8080/d1823794/40bcdac324/278527
-#EXTINF:-1 tvg-id="beinmoviesfamily.tr" tvg-name="TR: beIN Film:s Family" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/75e47808eb64b20e1611e171c8a17339.png" tvg-id2="" group-title="FILM",TR: beIN Film:s Family
-http://iptvtree.net:8080/d1823794/40bcdac324/1763
-#EXTINF:-1 tvg-id="beinmoviespremier.tr" tvg-name="TR: beIN Film:s Premiere" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4c2308f19e292f658c25f7eeb320302c.png" tvg-id2="" group-title="FILM",TR: beIN Film:s Premiere
-http://iptvtree.net:8080/d1823794/40bcdac324/1764
-#EXTINF:-1 tvg-id="beinmoviespremiere2.tr" tvg-name="TR: beIN Film:s Premiere 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8132ccbeac2354ea63bf6b409a16a261.png" tvg-id2="" group-title="FILM",TR: beIN Film:s Premiere 2
-http://iptvtree.net:8080/d1823794/40bcdac324/1765
-#EXTINF:-1 tvg-id="beinmoviesstars.tr" tvg-name="TR: beIN Film:s Stars" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/56d0118fa3eedb7b7ec361b78a1cd3e4.png" tvg-id2="" group-title="FILM",TR: beIN Film:s Stars
-http://iptvtree.net:8080/d1823794/40bcdac324/1766
-#EXTINF:-1 tvg-id="beinmoviesturk.tr" tvg-name="TR: beIN Film:s Turk" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/cdb8893f36235adb4e32d276d5a5d3fb.png" tvg-id2="" group-title="FILM",TR: beIN Film:s Turk
-http://iptvtree.net:8080/d1823794/40bcdac324/1767
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Series 1" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/d248d175de659f0813a02e9134d18b6b.png" tvg-id2="" group-title="FILM",TR: beIN Series 1
-http://iptvtree.net:8080/d1823794/40bcdac324/298429
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Series 2" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b356d48dffa753ebf6b5ae6f31ff71c0.png" tvg-id2="" group-title="FILM",TR: beIN Series 2
-http://iptvtree.net:8080/d1823794/40bcdac324/298427
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Series 3" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ad65c62b7bfe6448570dfe2996b17f04.png" tvg-id2="" group-title="FILM",TR: beIN Series 3
-http://iptvtree.net:8080/d1823794/40bcdac324/298428
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Series 4" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9abe75f1c9ee476a5d033cf5ceca6cad.png" tvg-id2="" group-title="FILM",TR: beIN Series 4
-http://iptvtree.net:8080/d1823794/40bcdac324/298430
+
 #EXTINF:-1 tvg-id="" tvg-name="TR: Cine 5" tvg-logo="http://s3.i3ns.net/portal/picon/2022-12/6747b19306e60ba4e2af48c17bb708e5.png" tvg-id2="" group-title="FILM",TR: Cine 5
 http://iptvtree.net:8080/d1823794/40bcdac324/297035
 #EXTINF:-1 tvg-id="" tvg-name="TR: DiziSmart Max" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0411b5f6674eec1a8abaf701ba25cb57.png" tvg-id2="" group-title="FILM",TR: DiziSmart Max
@@ -160,38 +131,108 @@ http://iptvtree.net:8080/d1823794/40bcdac324/58134
 #EXTINF:-1 tvg-id="" tvg-name="TR: TRT 4K" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b7cce6fc6565cdcf493af768731819cb.png" tvg-id2="" group-title="FILM",TR: TRT 4K
 http://iptvtree.net:8080/d1823794/40bcdac324/1810
 
+#EXTINF:-1 --- |BEIN FİLM KANALLARI| ---
+#EXTINF:-1 tvg-id="beinboxoffice1.tr" tvg-name="TR: beIN Box Office 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/bd21663ad8c4d4c1ac6440b3f40ba746.png" tvg-id2="" group-title="BEIN FILM 1",TR: beIN Box Office 1
+http://iptvtree.net:8080/d1823794/40bcdac324/536
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Box Office 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/adea4a88280fb88d0c2232343a33a69e.png" tvg-id2="" group-title="BEIN FILM 1",TR: beIN Box Office 2
+http://iptvtree.net:8080/d1823794/40bcdac324/281863
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Box Office 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/661d76fd2683c5c3a355f92d2e71afc5.png" tvg-id2="" group-title="BEIN FILM 1",TR: beIN Box Office 3
+http://iptvtree.net:8080/d1823794/40bcdac324/538
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Box Office Turk" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/f35c4aa1c5be07033c105aa2a264ee99.png" tvg-id2="" group-title="BEIN FILM 1",TR: beIN Box Office Turk
+http://iptvtree.net:8080/d1823794/40bcdac324/539
+#EXTINF:-1 tvg-id="beinmoviesaction.tr" tvg-name="TR: beIN Film:s Action" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ca1d2bb923338f5d520918b981135d91.png" tvg-id2="" group-title="BEIN FILM 1",TR: beIN Film:s Action
+http://iptvtree.net:8080/d1823794/40bcdac324/1761
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Film:s Action 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0c72fbf1b70577e54df906132c848507.png" tvg-id2="" group-title="BEIN FILM 1",TR: beIN Film:s Action 2
+http://iptvtree.net:8080/d1823794/40bcdac324/278527
+#EXTINF:-1 tvg-id="beinmoviesfamily.tr" tvg-name="TR: beIN Film:s Family" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/75e47808eb64b20e1611e171c8a17339.png" tvg-id2="" group-title="BEIN FILM 1",TR: beIN Film:s Family
+http://iptvtree.net:8080/d1823794/40bcdac324/1763
+#EXTINF:-1 tvg-id="beinmoviespremier.tr" tvg-name="TR: beIN Film:s Premiere" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4c2308f19e292f658c25f7eeb320302c.png" tvg-id2="" group-title="BEIN FILM 1",TR: beIN Film:s Premiere
+http://iptvtree.net:8080/d1823794/40bcdac324/1764
+#EXTINF:-1 tvg-id="beinmoviespremiere2.tr" tvg-name="TR: beIN Film:s Premiere 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8132ccbeac2354ea63bf6b409a16a261.png" tvg-id2="" group-title="BEIN FILM 1",TR: beIN Film:s Premiere 2
+http://iptvtree.net:8080/d1823794/40bcdac324/1765
+#EXTINF:-1 tvg-id="beinmoviesstars.tr" tvg-name="TR: beIN Film:s Stars" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/56d0118fa3eedb7b7ec361b78a1cd3e4.png" tvg-id2="" group-title="BEIN FILM 1",TR: beIN Film:s Stars
+http://iptvtree.net:8080/d1823794/40bcdac324/1766
+#EXTINF:-1 tvg-id="beinmoviesturk.tr" tvg-name="TR: beIN Film:s Turk" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/cdb8893f36235adb4e32d276d5a5d3fb.png" tvg-id2="" group-title="BEIN FILM 1",TR: beIN Film:s Turk
+http://iptvtree.net:8080/d1823794/40bcdac324/1767
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Series 1" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/d248d175de659f0813a02e9134d18b6b.png" tvg-id2="" group-title="BEIN FILM 1",TR: beIN Series 1
+http://iptvtree.net:8080/d1823794/40bcdac324/298429
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Series 2" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b356d48dffa753ebf6b5ae6f31ff71c0.png" tvg-id2="" group-title="BEIN FILM 1",TR: beIN Series 2
+http://iptvtree.net:8080/d1823794/40bcdac324/298427
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Series 3" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ad65c62b7bfe6448570dfe2996b17f04.png" tvg-id2="" group-title="BEIN FILM 1",TR: beIN Series 3
+http://iptvtree.net:8080/d1823794/40bcdac324/298428
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Series 4" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9abe75f1c9ee476a5d033cf5ceca6cad.png" tvg-id2="" group-title="BEIN FILM 1",TR: beIN Series 4
+http://iptvtree.net:8080/d1823794/40bcdac324/298430
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Film:s Action" tvg-logo="http://myserveriptv.com:2082/images/ba2b1abc4df0f24ec4624342dcaf19e3.png" tvg-id2="" group-title="BEIN FILM 2",TR: beIN Film:s Action
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/77284
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Film:s Action 2" tvg-logo="http://myserveriptv.com:2082/images/ba2b1abc4df0f24ec4624342dcaf19e3.png" tvg-id2="" group-title="BEIN FILM 2",TR: beIN Film:s Action 2
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/77469
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Film:s Family" tvg-logo="http://myserveriptv.com:2082/images/d6f6094f9be5308137b62e9ce633d4b9.png" tvg-id2="" group-title="BEIN FILM 2",TR: beIN Film:s Family
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/77285
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Film:s Premier" tvg-logo="http://myserveriptv.com:2082/images/2fa86f2a5babb597834554c03a0860e1.png" tvg-id2="" group-title="BEIN FILM 2",TR: beIN Film:s Premier
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/77281
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Film:s Premier 2" tvg-logo="http://myserveriptv.com:2082/images/2fa86f2a5babb597834554c03a0860e1.png" tvg-id2="" group-title="BEIN FILM 2",TR: beIN Film:s Premier 2
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/77282
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Film:s Stars" tvg-logo="http://myserveriptv.com:2082/images/c49ddd4e9867820542e3032033ccc84c.png" tvg-id2="" group-title="BEIN FILM 2",TR: beIN Film:s Stars
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/77283
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Film:s Turk" tvg-logo="http://myserveriptv.com:2082/images/80e0593a98643f551372665f61d7df2f.png" tvg-id2="" group-title="BEIN FILM 2",TR: beIN Film:s Turk
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/77286
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Series 1" tvg-logo="http://myserveriptv.com:2082/images/7a77bc177557656c0bd8e21f4c37a784.png" tvg-id2="" group-title="BEIN FILM 2",TR: beIN Series 1
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/144690
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Series 2" tvg-logo="http://myserveriptv.com:2082/images/06caa8cf1237174d03e61498252b9527.png" tvg-id2="" group-title="BEIN FILM 2",TR: beIN Series 2
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/144691
+
+#EXTINF:-1 --- |BELGESEL| ---
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN IZ" tvg-logo="http://myserveriptv.com:2082/images/a7f6f5c42cc96bae07620ebc5a90e284.png" tvg-id2="" group-title="🇹🇷[03] Türk:",TR: beIN IZ
+http://iptvch.com:2082/akram9uh3sT7/w0D2bDo76DNv8cys45ei38DJ/77302
+#EXTINF:-1 tvg-id="discoveryscience.tr" tvg-name="TR: Discovery Science" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/259f5c55c4c7fe17aa7569ec673254c6.png" tvg-id2="" group-title="BELGESEL",TR: Discovery Science
+http://iptvtree.net:8080/d1823794/40bcdac324/5693
+#EXTINF:-1 tvg-id="discoverychannel.tr" tvg-name="TR: Discovery World" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7fc32221d2c98b43f8d3178589b8ea47.png" tvg-id2="" group-title="BELGESEL",TR: Discovery World
+http://iptvtree.net:8080/d1823794/40bcdac324/8236
+#EXTINF:-1 tvg-id="" tvg-name="TR: Viasat Doğa:" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="" group-title="BELGESEL",TR: Viasat Doğa:
+http://iptvtree.net:8080/d1823794/40bcdac324/284470
+#EXTINF:-1 tvg-id="bbcearth.tr" tvg-name="TR: BBC Earth" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/56c9396519be5f17a1cd883cc4524e2a.png" tvg-id2="" group-title="BELGESEL",TR: BBC Earth
+http://iptvtree.net:8080/d1823794/40bcdac324/8238
+#EXTINF:-1 tvg-id="" tvg-name="TR: Chasse & Peche" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/b132f4c664610ce850d244e9121cc9a3.png" tvg-id2=""roup g-title="BELGESEL",TR: Chasse & Peche
+http://iptvtree.net:8080/d1823794/40bcdac324/21246
+#EXTINF:-1 tvg-id="" tvg-name="TR: NAT GEO" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/50248dfe48a3f0f7319c05a7da2eab69.png" tvg-id2="" group-title="BELGESEL",TR: NAT GEO
+http://iptvtree.net:8080/d1823794/40bcdac324/278566
+#EXTINF:-1 tvg-id="natgeo.tr" tvg-name="TR: NAT GEO Wild" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/56d97c6609cc66e0b37f2839505118d5.png" tvg-id2="" group-title="BELGESEL",TR: NAT GEO Wild
+http://iptvtree.net:8080/d1823794/40bcdac324/838
+#EXTINF:-1 tvg-id="" tvg-name="TR: Science & Vie TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e33430648087af37f8728f34774a56d6.png" tvg-id2="" group-title="BELGESEL",TR: Science & Vie TV
+http://iptvtree.net:8080/d1823794/40bcdac324/32593
+
 #EXTINF:-1 --- |ÇOCUK KANALLARI| ---
-#EXTINF:-1 tvg-id="babytv.tr" tvg-name="TR: Baby TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fffb2b8070bf9f6d1fb83b084f3e2964.png" tvg-id2="" group-title="🇹🇷 [01] Türk: Çocuk:",TR: Baby TV
+#EXTINF:-1 tvg-id="babytv.tr" tvg-name="TR: Baby TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fffb2b8070bf9f6d1fb83b084f3e2964.png" tvg-id2="" group-title="ÇOCUK",TR: Baby TV
 http://iptvtree.net:8080/d1823794/40bcdac324/634
-#EXTINF:-1 tvg-id="" tvg-name="TR: Boomerang" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/51dcf23cb9d1f7f16b31373e2e17aa16.png" tvg-id2="" group-title="🇹🇷 [01] Türk: Çocuk:",TR: Boomerang
+#EXTINF:-1 tvg-id="" tvg-name="TR: Boomerang" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/51dcf23cb9d1f7f16b31373e2e17aa16.png" tvg-id2="" group-title="ÇOCUK",TR: Boomerang
 http://iptvtree.net:8080/d1823794/40bcdac324/672
-#EXTINF:-1 tvg-id="" tvg-name="TR: Caillou" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/9e1d0ba765969dbf56cc3ee9338a9cfc.png" tvg-id2="" group-title="🇹🇷 [01] Türk: Çocuk:",TR: Caillou
+#EXTINF:-1 tvg-id="" tvg-name="TR: Caillou" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/9e1d0ba765969dbf56cc3ee9338a9cfc.png" tvg-id2="" group-title="ÇOCUK",TR: Caillou
 http://iptvtree.net:8080/d1823794/40bcdac324/192581
-#EXTINF:-1 tvg-id="cartoonnetwork.tr" tvg-name="TR: Cartoon Network" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/87598c365695f0ec0734167340a7fbdf.png" tvg-id2="" group-title="🇹🇷 [01] Türk: Çocuk:",TR: Cartoon Network
+#EXTINF:-1 tvg-id="cartoonnetwork.tr" tvg-name="TR: Cartoon Network" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/87598c365695f0ec0734167340a7fbdf.png" tvg-id2="" group-title="ÇOCUK",TR: Cartoon Network
 http://iptvtree.net:8080/d1823794/40bcdac324/8261
-#EXTINF:-1 tvg-id="" tvg-name="TR: CBeebies" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/35d0a04a7465ffb538cc90693a6704b8.png" tvg-id2="" group-title="🇹🇷 [01] Türk: Çocuk:",TR: CBeebies
+#EXTINF:-1 tvg-id="" tvg-name="TR: CBeebies" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/35d0a04a7465ffb538cc90693a6704b8.png" tvg-id2="" group-title="ÇOCUK",TR: CBeebies
 http://iptvtree.net:8080/d1823794/40bcdac324/1844
-#EXTINF:-1 tvg-id="" tvg-name="TR: Da Vinci" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/335e4ee4cc0197611dddcc8a6110be6d.png" tvg-id2="" group-title="🇹🇷 [01] Türk: Çocuk:",TR: Da Vinci
+#EXTINF:-1 tvg-id="" tvg-name="TR: Da Vinci" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/335e4ee4cc0197611dddcc8a6110be6d.png" tvg-id2="" group-title="ÇOCUK",TR: Da Vinci
 http://iptvtree.net:8080/d1823794/40bcdac324/1850
-#EXTINF:-1 tvg-id="" tvg-name="TR: Disney Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4b7ef9e32b9c4d64adc3330352ac327f.png" tvg-id2="" group-title="🇹🇷 [01] Türk: Çocuk:",TR: Disney Channel
+#EXTINF:-1 tvg-id="" tvg-name="TR: Disney Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4b7ef9e32b9c4d64adc3330352ac327f.png" tvg-id2="" group-title="ÇOCUK",TR: Disney Channel
 http://iptvtree.net:8080/d1823794/40bcdac324/278570
-#EXTINF:-1 tvg-id="disneychannel.tr" tvg-name="TR: Disney Junior" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d4bfb7096c986189cad4c27667329846.png" tvg-id2="" group-title="🇹🇷 [01] Türk: Çocuk:",TR: Disney Junior
+#EXTINF:-1 tvg-id="disneychannel.tr" tvg-name="TR: Disney Junior" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d4bfb7096c986189cad4c27667329846.png" tvg-id2="" group-title="ÇOCUK",TR: Disney Junior
 http://iptvtree.net:8080/d1823794/40bcdac324/633
-#EXTINF:-1 tvg-id="" tvg-name="TR: Manisa TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/1f071b604362eab2378fe007d1806d9a.png" tvg-id2="" group-title="🇹🇷 [01] Türk: Çocuk:",TR: Manisa TV
+#EXTINF:-1 tvg-id="" tvg-name="TR: Manisa TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/1f071b604362eab2378fe007d1806d9a.png" tvg-id2="" group-title="ÇOCUK",TR: Manisa TV
 http://iptvtree.net:8080/d1823794/40bcdac324/286869
-#EXTINF:-1 tvg-id="" tvg-name="TR: Minika Cocuk" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/cd6373e1045f15e3cb8f3b5afd4c7987.png" tvg-id2="" group-title="🇹🇷 [01] Türk: Çocuk:",TR: Minika Cocuk
+#EXTINF:-1 tvg-id="" tvg-name="TR: Minika Cocuk" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/cd6373e1045f15e3cb8f3b5afd4c7987.png" tvg-id2="" group-title="ÇOCUK",TR: Minika Cocuk
 http://iptvtree.net:8080/d1823794/40bcdac324/671
-#EXTINF:-1 tvg-id="minikago.tr" tvg-name="TR: Minika Go" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/49feee293730b6b2172e746bb4a2a811.png" tvg-id2="" group-title="🇹🇷 [01] Türk: Çocuk:",TR: Minika Go
+#EXTINF:-1 tvg-id="minikago.tr" tvg-name="TR: Minika Go" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/49feee293730b6b2172e746bb4a2a811.png" tvg-id2="" group-title="ÇOCUK",TR: Minika Go
 http://iptvtree.net:8080/d1823794/40bcdac324/662
-#EXTINF:-1 tvg-id="" tvg-name="TR: Nick Junior" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d17ee4121212f3d15a6d3e96e1b78e6b.png" tvg-id2="" group-title="🇹🇷 [01] Türk: Çocuk:",TR: Nick Junior
+#EXTINF:-1 tvg-id="" tvg-name="TR: Nick Junior" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d17ee4121212f3d15a6d3e96e1b78e6b.png" tvg-id2="" group-title="ÇOCUK",TR: Nick Junior
 http://iptvtree.net:8080/d1823794/40bcdac324/675
-#EXTINF:-1 tvg-id="" tvg-name="TR: nickelodeon" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/daa5f52e567a2b32067451aede36afc7.png" tvg-id2="" group-title="🇹🇷 [01] Türk: Çocuk:",TR: nickelodeon
+#EXTINF:-1 tvg-id="" tvg-name="TR: nickelodeon" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/daa5f52e567a2b32067451aede36afc7.png" tvg-id2="" group-title="ÇOCUK",TR: nickelodeon
 http://iptvtree.net:8080/d1823794/40bcdac324/278469
-#EXTINF:-1 tvg-id="trtcocuk.tr" tvg-name="TR: TRT Cocuk" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4c97918044ad2996399fd692049b7397.png" tvg-id2="" group-title="🇹🇷 [01] Türk: Çocuk:",TR: TRT Cocuk
+#EXTINF:-1 tvg-id="trtcocuk.tr" tvg-name="TR: TRT Cocuk" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4c97918044ad2996399fd692049b7397.png" tvg-id2="" group-title="ÇOCUK",TR: TRT Cocuk
 http://iptvtree.net:8080/d1823794/40bcdac324/629
-#EXTINF:-1 tvg-id="" tvg-name="TR: Zarok TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8bedf2978f03f6bbc9a630a56d8fbc45.png" tvg-id2="" group-title="🇹🇷 [01] Türk: Çocuk:",TR: Zarok TV
+#EXTINF:-1 tvg-id="" tvg-name="TR: Zarok TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8bedf2978f03f6bbc9a630a56d8fbc45.png" tvg-id2="" group-title="ÇOCUK",TR: Zarok TV
 http://iptvtree.net:8080/d1823794/40bcdac324/14893
-#EXTINF:-1 tvg-id="" tvg-name="TR: Çocuk Smart" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ea19100b30aec6cd0d72047356274356.png" tvg-id2="" group-title="🇹🇷 [01] Türk: Çocuk:",TR: Çocuk Smart
+#EXTINF:-1 tvg-id="" tvg-name="TR: Çocuk Smart" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ea19100b30aec6cd0d72047356274356.png" tvg-id2="" group-title="ÇOCUK",TR: Çocuk Smart
 http://iptvtree.net:8080/d1823794/40bcdac324/1851
 
 #EXTINF:-1 --- |ROMANIA| ---
