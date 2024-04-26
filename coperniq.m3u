@@ -1,7 +1,7 @@
 " group-title=https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/tr/dsmart.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/tr/turksatkablo.com.tr.epg.xml,https://my.iptv.community/epg_temp_dl/output-epgs/turkey.xml"
 #EXTINF:-1 tvg-name="Show TV"tvg-id="ShowTV.tr" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/show_250x150.png"group-title="ULUSAL",Show TV
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
-#EXTINF:-1 tvg-name="Kanal D"tvg-id="KanalD.tr" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/11746bc07a9dc85cf6120d85a7332277.png" group-title="ULUSAL",Kanal D
+#EXTINF:-1 tvg-name="Kanal D"tvg-id="KanalD.tr" tvg-logo="https://i.imgur.com/ULv7b06.png" group-title="ULUSAL",Kanal D
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 #EXTINF:-1 tvg-name="Star TV"tvg-id="StarTV.tr" tvg-logo="https://i.imgur.com/le0hb7q.png"group-title="ULUSAL",Star TV
 https://dogus-live.daioncdn.net/startv/startv.m3u8
