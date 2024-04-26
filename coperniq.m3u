@@ -90,6 +90,8 @@ http://stream.tvcdn.net/diger-eglence/yansima-sinema-tv.m3u8
 http://stream.tvcdn.net/diger-eglence/yesilcam-tv-2.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e71e4333-6c16-4da2-8424-14201272961e.jpg" group-title="Diğer-Eğlence",Yeşilçam TV 3
 http://stream.tvcdn.net/diger-eglence/yesilcam-tv-3.m3u8
+#EXTINF:1,TÜRK FİLMLERİ TV (ZEKİ & METİN) - YOUTUBE
+https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/turkfilmleritv.m3u8
 
 
 #EXTINF:-1 --- |FİLM| ---
