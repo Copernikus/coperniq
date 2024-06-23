@@ -56,7 +56,7 @@ http://stream.tvcdn.net/diger/kisisel-gelisim-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/f438ceb7-c0a8-4b3c-9415-aea43a02b93e.png" group-title="EĞLENCE",Tarih TV
 http://stream.tvcdn.net/eglence/tarih-tv.m3u8
 
-#EXTGRP:"--- |TÜRK FİLMLERİ| ---
+# --- |TÜRK FİLMLERİ| ---
 
 #EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/6ec6e894-25f3-4432-8cb3-dbd2ff783842.png" group-title="FILM",Şaban TV
 http://stream.tvcdn.net/diger-eglence/saban-tv.m3u8
