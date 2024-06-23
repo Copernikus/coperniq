@@ -82,8 +82,6 @@ http://stream.tvcdn.net/diger-eglence/tivi-turk.m3u8
 http://stream.tvcdn.net/diger-eglence/turk-filmleri.m3u8
 #EXTINF:1 tvg-id="" group-title="Diğer-Eğlence",TV 70
 http://stream.tvcdn.net/diger-eglence/tv-70.m3u8
-#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/dbdb9b76-d4f4-47b4-a342-54bee0025b1c.jpeg" group-title="Diğer-Eğlence",Yansıma Sinema TV
-http://stream.tvcdn.net/diger-eglence/yansima-sinema-tv.m3u8
 #EXTINF:1,TÜRK FİLMLERİ TV (ZEKİ & METİN) - YOUTUBE
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/turkfilmleritv.m3u8
 
