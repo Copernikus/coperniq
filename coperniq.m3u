@@ -12,11 +12,15 @@ http://stream.tvcdn.net/ulusal/atv.m3u8
 #EXTINF:-1 tvg-name="TLC Turkey"tvg-id="TLCTurkey.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png"group-title="EĞLENCE",TLC
 https://tlc.blutv.com/blutv_tlc_live/live.m3u8
 #EXTINF:-1 tvg-name="TV 8"tvg-id="TV8.tr" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/TV8_250x150.png"group-title="EĞLENCE",TV 8
-https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
+http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/251
 #EXTINF:1 tvg-id="TV85.tr" tvg-logo="http://assets.tvcdn.net/be26f47c-18d7-4447-971c-ca4ba60ffb4c.png" group-title="EĞLENCE",TV8.5
-http://stream.tvcdn.net/eglence/tv8-5.m3u8
+http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/222
 #EXTINF:-1 tvg-name="360"tvg-id="360.tr" tvg-logo="https://i.imgur.com/eXKohZ5.png"group-title="EĞLENCE",360
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+#EXTINF:-1 tvg-id="beyaztv.tr" tvg-name="TR: BEYAZ TV HD" tvg-logo="https://begenal.shop//resim/galeri_MTY2N_157.png" group-title="TR | ULUSAL",TR: BEYAZ TV HD
+http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/219
+#EXTINF:-1 tvg-id="teve2.tr" tvg-name="TR: TEVE 2 HD+" tvg-logo="https://begenal.shop//resim/galeri_MTY2N_135.png" group-title="TR | ULUSAL",TR: TEVE 2 HD+
+http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/257
 #EXTINF:-1 tvg-name="DMAX Turkey"tvg-id="DMAXTurkey.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DMAX_BLACK.svg/512px-DMAX_BLACK.svg.png"group-title="EĞLENCE",DMAX
 https://dogus-live.daioncdn.net/dmax/dmax.m3u8
 #EXTINF:-1 tvg-name="DMAX Turkey HD"tvg-id="DMAXTurkeyHD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DMAX_BLACK.svg/512px-DMAX_BLACK.svg.png"group-title="EĞLENCE",DMAX HD
@@ -38,7 +42,7 @@ https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
 #EXTINF:-1 tvg-name="TV 4"tvg-id="TV4.tr" tvg-logo="https://i.imgur.com/gnkPxVV.png"group-title="ULUSAL",TV4
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 #EXTINF:-1 tvg-name="TRT 1"tvg-id="TRT1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/512px-TRT_1_logo_%282021-%29.svg.png"group-title="ULUSAL",TRT 1
-https://trt.daioncdn.net/trt-1/master_720p.m3u8?app=web
+http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/229
 #EXTINF:-1 tvg-name="TRT 2"tvg-id="TRT2.tr" tvg-logo="https://i.imgur.com/h9Q88CW.png"group-title="ULUSAL",TRT 2
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="TRT Haber"tvg-id="TRTHaber.tr" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt_haber.png"group-title="HABER",TRT Haber
@@ -83,7 +87,59 @@ https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/turkf
 #EXTINF:-1 tvg-name="Ateş Başı" tvg-language="Russian" tvg-country="RU" tvg-id="Rahat_AtesBasi" tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/b524a99a-92d1-49a4-bb81-fda99617db2c.png" group-title="Rahatlatıcı",Ateş Başı
 https://ythls-v3.onrender.com/channel/UCMlIZGBeueCZBUmEP-PddJg.m3u8
 
+#EXTINF:-1 --- |BELGESEL| ---
+#EXTINF:-1 tvg-id="" tvg-name="TR: National Geographic HD+" tvg-logo="https://begenal.shop//resim/galeri_MTY0M_421.png" group-title="TR | BELGESEL",TR: National Geographic HD+
+http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/17121
+#EXTINF:-1 tvg-id="natgeowild.tr" tvg-name="TR: NAT GEO WILD HD+" tvg-logo="https://begenal.shop//resim/galeri_MTY0M_420.png" group-title="TR | BELGESEL",TR: NAT GEO WILD HD+
+http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/486
+#EXTINF:-1 tvg-id="" tvg-name="TR: DISCOVERY CHANNEL HD" tvg-logo="https://begenal.shop//resim/galeri_MTY0M_424.png" group-title="TR | BELGESEL",TR: DISCOVERY CHANNEL HD
+http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/110611
+#EXTINF:-1 tvg-id="" tvg-name="TR: DISCOVERY SCIENCE HD+" tvg-logo="https://begenal.shop//resim/galeri_MTY0M_417.png" group-title="TR | BELGESEL",TR: DISCOVERY SCIENCE HD+
+http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/489
+#EXTINF:-1 tvg-id="bbcearth.tr" tvg-name="TR: BBC Earth HD" tvg-logo="https://begenal.shop//resim/galeri_MTY0M_418.png" group-title="TR | BELGESEL",TR: BBC Earth HD
+http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/491
+
+
 #EXTINF:-1 --- |FİLM| ---
+SINEMA",TR: SINEMA TV AILE 2 HD+
+http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/363
+#EXTINF:-1 tvg-id="sinematvhd.tr" tvg-name="TR: SINEMA TV HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-tv-tr.png" group-title="TR | D-SMART & TIVIBU SINEMA",TR: SINEMA TV HD+
+http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/358
+#EXTINF:-1 tvg-id="sinema2hd.tr" tvg-name="TR: SINEMA TV 2 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-2-tr.png" group-title="TR | D-SMART & TIVIBU SINEMA",TR: SINEMA TV 2 HD+
+http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/359
+#EXTINF:-1 tvg-id="sinemaaksiyonhd.tr" tvg-name="TR: SINEMA TV ACTION HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-aksiyon-tr.png" group-title="TR | D-SMART & TIVIBU SINEMA",TR: SINEMA TV ACTION HD+
+http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/360
+#EXTINF:-1 tvg-id="sinemaailehd.tr" tvg-name="TR: SINEMA TV AILE HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-aile-tr.png" group-title="TR | D-SMART & TIVIBU SINEMA",TR: SINEMA TV AILE HD+
+http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/362
+#EXTINF:-1 tvg-id="sinemakomedihd.tr" tvg-name="TR: SINEMA TV KOMEDI HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-komedi-tr.png" group-title="TR | D-SMART & TIVIBU SINEMA",TR: SINEMA TV KOMEDI HD+
+http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/364
+#EXTINF:-1 tvg-id="sinemakomedi2hd.tr" tvg-name="TR: SINEMA TV KOMEDI 2 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-komedi-2-tr.png" group-title="TR | D-SMART & TIVIBU SINEMA",TR: SINEMA TV KOMEDI 2 HD+
+http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/365
+#EXTINF:-1 tvg-id="sinemayerli.tr" tvg-name="TR: SINEMA TV YERLI  HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-yerli-tr.png" group-title="TR | D-SMART & TIVIBU SINEMA",TR: SINEMA TV YERLI  HD+
+http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/366
+#EXTINF:-1 tvg-id="sinemayerli2.tr" tvg-name="TR: SINEMA TV YERLI 2 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-yerli-2-tr.png" group-title="TR | D-SMART & TIVIBU SINEMA",TR: SINEMA TV YERLI 2 HD+
+http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/367
+#EXTINF:-1 tvg-id="sinema1001hd.tr" tvg-name="TR: SINEMA TV 1001 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-1001-tr.png" group-title="TR | D-SMART & TIVIBU SINEMA",TR: SINEMA TV 1001 HD+
+http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/368
+#EXTINF:-1 tvg-id="beinboxoffice1.tr" tvg-name="TR: b**N B0X 0FFİCE 1 HD+" tvg-logo="https://contentlibrary.digiturk.com.tr/Channel/36/Image/box_office1_205x150_2022.png" group-title="TR | beIN MEDIA SINEMA",TR: b**N B0X 0FFİCE 1 HD+
+http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/362968
+#EXTINF:-1 tvg-id="beinboxoffice2.tr" tvg-name="TR: b**N B0X 0FFİCE 2 HD+" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/beIN_Box_Office_2_TR_logo.png" group-title="TR | beIN MEDIA SINEMA",TR: b**N B0X 0FFİCE 2 HD+
+http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/362969
+#EXTINF:-1 tvg-id="beinboxoffice3.tr" tvg-name="TR: b**N B0X 0FFİCE 3 HD+" tvg-logo="https://contentlibrary.digiturk.com.tr/Channel/38/Image/box_office3_205x150_2022.png" group-title="TR | beIN MEDIA SINEMA",TR: b**N B0X 0FFİCE 3 HD+
+http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/362970
+#EXTINF:-1 tvg-id="beinmoviespremier.tr" tvg-name="TR: b**N M0VIES P*EMIER HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-movies-premiere-qa-tr.png" group-title="TR | beIN MEDIA SINEMA",TR: b**N M0VIES P*EMIER HD+
+http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/312
+#EXTINF:-1 tvg-id="beinmoviespremiere2.tr" tvg-name="TR: b**N MOVIES P*EMIERE 2 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-movies-premiere-2-qa-tr.png" group-title="TR | beIN MEDIA SINEMA",TR: b**N MOVIES P*EMIERE 2 HD+
+http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/317
+#EXTINF:-1 tvg-id="beinmoviesstars.tr" tvg-name="TR: b**N M0VIES STARS HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-movies-stars-qa-tr.png" group-title="TR | beIN MEDIA SINEMA",TR: b**N M0VIES STARS HD+
+http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/319
+#EXTINF:-1 tvg-id="beinmoviesturk.tr" tvg-name="TR: b**N M0VIES TURK HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-movies-turk-qa-tr.png" group-title="TR | beIN MEDIA SINEMA",TR: b**N M0VIES TURK HD+
+http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/316
+#EXTINF:-1 tvg-id="beinseriescomedy.tr" tvg-name="TR: b**N S*RIES 1 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-series-comedy-qa-tr.png" group-title="TR | beIN MEDIA SINEMA",TR: b**N S*RIES 1 HD+
+http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/309
+#EXTINF:-1 tvg-id="beinseriesscifi.tr" tvg-name="TR: b**N S*RIES 2 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-series-sci-fi-qa-tr.png" group-title="TR | beIN MEDIA SINEMA",TR: b**N S*RIES 2 HD+
+http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/308
+
 
 #EXTINF:-1 --- |ÇOCUK KANALLARI| ---
 #EXTINF:-1 tvg-id="babytv.tr" tvg-name="TR: Baby TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fffb2b8070bf9f6d1fb83b084f3e2964.png" tvg-id2="" group-title="ÇOCUK",TR: Baby TV
