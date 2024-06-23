@@ -1,4 +1,5 @@
 " group-title=https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/tr/dsmart.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/tr/turksatkablo.com.tr.epg.xml,https://my.iptv.community/epg_temp_dl/output-epgs/turkey.xml"
+--- |ULUSAL| ---
 #EXTINF:-1 tvg-name="Show TV"tvg-id="ShowTV.tr" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/show_250x150.png"group-title="ULUSAL",Show TV
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:-1 tvg-name="Kanal D"tvg-id="KanalD.tr" tvg-logo="https://i.imgur.com/ULv7b06.png" group-title="ULUSAL",Kanal D
@@ -83,9 +84,11 @@ http://stream.tvcdn.net/diger-eglence/tivi-turk.m3u8
 #EXTINF:1,TÜRK FİLMLERİ TV (ZEKİ & METİN) - YOUTUBE
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/turkfilmleritv.m3u8
 
+
 #EXTINF:-1 --- |RAHATLATICI| ---
 #EXTINF:-1 tvg-name="Ateş Başı" tvg-language="Russian" tvg-country="RU" tvg-id="Rahat_AtesBasi" tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/b524a99a-92d1-49a4-bb81-fda99617db2c.png" group-title="Rahatlatıcı",Ateş Başı
 https://ythls-v3.onrender.com/channel/UCMlIZGBeueCZBUmEP-PddJg.m3u8
+
 
 #EXTINF:-1 --- |BELGESEL| ---
 #EXTINF:-1 tvg-id="" tvg-name="TR: National Geographic HD+" tvg-logo="https://begenal.shop//resim/galeri_MTY0M_421.png" group-title="TR | BELGESEL",TR: National Geographic HD+
