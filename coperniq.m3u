@@ -104,96 +104,12 @@ https://grandcentral.1plus1.video/vod/partner/viasat/202310/8347227284d5366ac2be
 https://grandcentral.1plus1.video/vod/partner/viasat/202311/96e84cc8fa1ded5ac6aea67cbf6cc664c17174894565a0e27825825e2057404d/a2407e3840e08e24db7962c4b63f8732/1700826938?return_http=true
 #EXTINF:-1 tvg-name="Kar" tvg-language="Russian" tvg-country="RU" tvg-id="Rahat_Kar" tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/8d49b1bd-ed3b-40de-bfc7-0565c8737691.png" group-title="Rahatlatıcı",Kar
 https://grandcentral.1plus1.video/vod/partner/viasat/202211/9e1ed4c8fa7650eeb40fc8a450f278f0e739293c369df72e9626c6d843031ec0/00b3c4331364086ad4b5f2a5dc32a33e/1700826397?return_http=true
-#EXTINF:-1 tvg-name="Hayvanlar" tvg-language="Russian" tvg-country="RU" tvg-id="Rahat_Hayvanlar" tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/997e4dbd-2c7f-469d-8464-74a187575ef8.png" group-title="Rahatlatıcı",Hayvanlar
-https://grandcentral.1plus1.video/vod/partner/viasat/202310/acf05c246f3eaa7944b3a95549d6d8f049eafc044ee29bae4ef6bf43269b5928/ed1bf3c43b8483cd313eb15b7405809c/1700826990?return_http=true
-#EXTINF:-1 tvg-name="Akvaryum" tvg-language="Russian" tvg-country="RU" tvg-id="Rahat_Akvaryum" tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/e06cfd66-f618-49ce-9bd0-e15421c5cd8c.png" group-title="Rahatlatıcı",Akvaryum
-https://grandcentral.1plus1.video/vod/partner/viasat/202309/b6e3f3fe062376c0b25cce8a939e0b51ef70ebe3c873b632b339891c45b4bf35/95da7831dee63a583dbceef17167f9b5/1700826891?return_http=true
-#EXTINF:-1 tvg-name="Kumsal" tvg-language="Russian" tvg-country="RU" tvg-id="Rahat_Kumsal" tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/607e90a5-ec3e-4e38-9797-8dfe6268b96d.png" group-title="Rahatlatıcı",Kumsal
-https://grandcentral.1plus1.video/vod/partner/viasat/202307/482eb098702dfb5c27075eaed076ed4b2f3ce498f12886eb7085da247e3d3fc6/9c64b60a43131e451a83255803ce69e7/1700827135?return_http=true
-#EXTINF:-1 tvg-name="Dünya" tvg-language="Russian" tvg-country="RU" tvg-id="Rahat_Dunya" tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/58043d53-0955-4f90-8bfe-d215cb83879b.png" group-title="Rahatlatıcı",Dünya
-https://grandcentral.1plus1.video/vod/partner/viasat/202308/5a3077a72a5b9eca55513f9e5485a3dc192682274d198e42d33eafb6dc6c229c/ad8e9f3b0d34c93d4bf46772e82b1c06/1700827166?return_http=true
-#EXTINF:-1 tvg-name="Ninni" tvg-language="Russian" tvg-country="RU" tvg-id="Rahat_Ninni" tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/0e81ba77-73a0-4989-80b8-4dfb4018f161.png" group-title="Rahatlatıcı",Ninni
-https://grandcentral.1plus1.video/vod/partner/viasat/202311/9549a671f7e2deb8b05b1a14a7635c2acdc515b27bad958de2b991f8cc699562/8403f78bb5397e4fd486fa282ce1095b/1700827248?return_http=true
-#EXTINF:-1 tvg-name="Uzay" tvg-language="Russian" tvg-country="RU" tvg-id="Rahat_Uzay" tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/394d652d-8f54-44c2-b704-5a7cf2eba547.png" group-title="Rahatlatıcı",Uzay
-https://grandcentral.1plus1.video/vod/partner/viasat/202304/4819c8f056973e97d291ec99ab4805dc3f5796eb4c4836396c58caeb7110fe04/bed289a4851309e98d0b96c3ef1f540d/1700827212?return_http=true
-#EXTINF:-1 tvg-name="Şelale" tvg-language="Russian" tvg-country="RU" tvg-id="Rahat_Selale" tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/1791ab8c-c13b-416f-b075-6e8a71c5fef5.png" group-title="Rahatlatıcı",Şelale
-https://grandcentral.1plus1.video/vod/partner/viasat/202304/985acdefe277ffba5632721de3cc2f79208587a3b79d2fa033b1a7515355da6e/7154c16edb73d1a1ae47e78f00ba3b1e/1700827271?return_http=true
-#EXTINF:-1 tvg-name="Deniz" tvg-language="Russian" tvg-country="RU" tvg-id="Rahat_Deniz" tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/36cef3c4-a1aa-4a42-98bb-c0d315373fe6.png" group-title="Rahatlatıcı",Deniz
-https://grandcentral.1plus1.video/vod/partner/viasat/202309/5d92d64973b1d9a280046c50eb1390529027247504f9b155ce3810f3cb9900af/e671942cd8b66f57c528afa77ac8bb47/1700827296?return_http=true
+
 
 #EXTINF:-1 --- |FİLM| ---
 #EXTINF:-1 tvg-id="beinboxoffice1.tr" tvg-name="TR: beIN Box Office 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/bd21663ad8c4d4c1ac6440b3f40ba746.png" tvg-id2="" group-title="🇹🇷 [01] Türk: Film:",TR: beIN Movies 1
 http://iptv.am000.tv:8000/live/add17/add17/387.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Box Office 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/adea4a88280fb88d0c2232343a33a69e.png" tvg-id2="" group-title="🇹🇷 [01] Türk: Film:",TR: beIN Movies 2
-http://iptv.am000.tv:8000/live/add17/add17/343.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Box Office Turk" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/f35c4aa1c5be07033c105aa2a264ee99.png" tvg-id2="" group-title="🇹🇷 [01] Türk: Film:",TR: beIN Movies 3
-http://iptv.am000.tv:8000/live/add17/add17/534.ts
-#EXTINF:-1 tvg-id="beinmoviesaction.tr" tvg-name="TR: beIN Film:s Action" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ca1d2bb923338f5d520918b981135d91.png" tvg-id2="" group-title="🇹🇷 [01] Türk: Film:",TR: beIN Film:s Action
-http://iptvtree.net:8080/d1823794/40bcdac324/1761
-#EXTINF:-1 tvg-id="beinmoviespremiere2.tr" tvg-name="TR: beIN Film:s Premiere 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8132ccbeac2354ea63bf6b409a16a261.png" tvg-id2="" group-title="🇹🇷 [01] Türk: Film:",TR: beIN Film:s Premiere 2
-http://iptvtree.net:8080/d1823794/40bcdac324/1765
-#EXTINF:-1 tvg-id="beinmoviesstars.tr" tvg-name="TR: beIN Film:s Stars" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/56d0118fa3eedb7b7ec361b78a1cd3e4.png" tvg-id2="" group-title="🇹🇷 [01] Türk: Film:",TR: beIN Film:s Stars
-http://iptvtree.net:8080/d1823794/40bcdac324/1766
-#EXTINF:-1 tvg-id="beinmoviesturk.tr" tvg-name="TR: beIN Film:s Turk" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/cdb8893f36235adb4e32d276d5a5d3fb.png" tvg-id2="" group-title="🇹🇷 [01] Türk: Film:",TR: beIN Film:s Turk
-http://iptvtree.net:8080/d1823794/40bcdac324/1767
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Series 1" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/d248d175de659f0813a02e9134d18b6b.png" tvg-id2="" group-title="🇹🇷 [01] Türk: Film:",TR: beIN Series 1
-http://iptvtree.net:8080/d1823794/40bcdac324/298429
-#EXTINF:-1 tvg-id="" tvg-name="TR: Cine 5" tvg-logo="http://s3.i3ns.net/portal/picon/2022-12/6747b19306e60ba4e2af48c17bb708e5.png" tvg-id2="" group-title="🇹🇷 [01] Türk: Film:",TR: Cine 5
-http://iptvtree.net:8080/d1823794/40bcdac324/297035
-#EXTINF:-1 tvg-id="" tvg-name="TR: DiziSmart Max" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0411b5f6674eec1a8abaf701ba25cb57.png" tvg-id2="" group-title="🇹🇷 [01] Türk: Film:",TR: DiziSmart Max
-http://iptvtree.net:8080/d1823794/40bcdac324/32147
-#EXTINF:-1 tvg-id="dizismartpremium.tr" tvg-name="TR: DiziSmart Premium" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4f32853a6807d014d455ae7cbff4566e.png" tvg-id2="" group-title="🇹🇷 [01] Türk: Film:",TR: DiziSmart Premium
-http://iptvtree.net:8080/d1823794/40bcdac324/15714
-#EXTINF:-1 tvg-id="fox.tr" tvg-name="TR: FOX" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8830c4b3dfd8964820cefa5b7720e5e6.png" tvg-id2="" group-title="🇹🇷 [01] Türk: Film:",TR: FOX
-http://iptvtree.net:8080/d1823794/40bcdac324/514
-#EXTINF:-1 tvg-id="" tvg-name="TR: Film:smart Classic" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5e761d79212e94473ec62fada843f9ac.png" tvg-id2="" group-title="🇹🇷 [01] Türk: Film:",TR: Film:smart Classic
-http://iptvtree.net:8080/d1823794/40bcdac324/1773
-#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema 1001" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/751db97a44d889859bdc7bd97319ae62.png" tvg-id2="" group-title="🇹🇷 [01] Türk: Film:",TR: Sinema 1001
-http://iptvtree.net:8080/d1823794/40bcdac324/1789
-#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema Komedi 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/269a56ea9163933c11161845516899c7.png" tvg-id2="" group-title="🇹🇷 [01] Türk: Film:",TR: Sinema Komedi 2
-http://iptvtree.net:8080/d1823794/40bcdac324/43541
-#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0656287e0deab66449ec57679c150bac.png" tvg-id2="" group-title="🇹🇷 [01] Türk: Film:",TR: Sinema TV
-http://iptvtree.net:8080/d1823794/40bcdac324/1790
-#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema Yerli" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8bf3379c2ea4f51aec7ecee160cfc211.png" tvg-id2="" group-title="🇹🇷 [01] Türk: Film:",TR: Sinema Yerli
-http://iptvtree.net:8080/d1823794/40bcdac324/1791
-#EXTINF:-1,OSN-CINEMA1
-http://iptv.am000.tv:8000/live/add17/add17/153.ts
-#EXTINF:-1,OSN_Cinma_2
-http://iptv.am000.tv:8000/live/add17/add17/403.ts
-#EXTINF:-1,OSN-MOVIES-ACTION
-http://iptv.am000.tv:8000/live/add17/add17/26.ts
-#EXTINF:-1,OSN-MOVIES-ACTION+2
-http://iptv.am000.tv:8000/live/add17/add17/18.ts
-#EXTINF:-1,OSN-MOVIES-HD
-http://iptv.am000.tv:8000/live/add17/add17/25.ts
-#EXTINF:-1,OSN-MOVIES-DRAMA
-http://iptv.am000.tv:8000/live/add17/add17/19.ts
-#EXTINF:-1,OSN-MOVIES-premier
-http://iptv.am000.tv:8000/live/add17/add17/323.ts
-#EXTINF:-1,OSN-MOVIES-premier2
-http://iptv.am000.tv:8000/live/add17/add17/412.ts
-#EXTINF:-1,OSN-Movie-FESTIVAL
-http://iptv.am000.tv:8000/live/add17/add17/27.ts
-#EXTINF:-1,OSN-MOVIES-Comedy
-http://iptv.am000.tv:8000/live/add17/add17/292.ts
-#EXTINF:-1,OSN-StarMovie
-http://iptv.am000.tv:8000/live/add17/add17/454.ts
-#EXTINF:-1,OSN_Starworld
-http://iptv.am000.tv:8000/live/add17/add17/151.ts
-#EXTINF:-1,OSN-BoxOffice
-http://iptv.am000.tv:8000/live/add17/add17/399.ts
-#EXTINF:-1,OSN-BoxOffice1
-http://iptv.am000.tv:8000/live/add17/add17/109.ts
-#EXTINF:-1,OSN-FIGHT-HD
-http://iptv.am000.tv:8000/live/add17/add17/625.ts
-#EXTINF:-1,Bein-Movies1
-http://iptv.am000.tv:8000/live/add17/add17/387.ts
-#EXTINF:-1,Bein-Movies2
-http://iptv.am000.tv:8000/live/add17/add17/343.ts
-#EXTINF:-1,Bein-Movies3
-http://iptv.am000.tv:8000/live/add17/add17/534.ts
-#EXTINF:-1,OSN-Disney
-http://iptv.am000.tv:8000/live/add17/add17/404.ts
+
 
 
 
