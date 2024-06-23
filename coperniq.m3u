@@ -1,5 +1,5 @@
-" group-title=https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/tr/dsmart.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/tr/turksatkablo.com.tr.epg.xml,https://my.iptv.community/epg_temp_dl/output-epgs/turkey.xml"
---- |ULUSAL| ---
+#EXTINF:-1 tvg-id="" tvg-name="--- |ULUSAL KANALLAR| ---" tvg-logo="" group-title="TR | ULUSAL",--- |ULUSAL KANALLAR| ---
+
 #EXTINF:-1 tvg-name="Show TV"tvg-id="ShowTV.tr" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/show_250x150.png"group-title="ULUSAL",Show TV
 http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/233
 #EXTINF:-1 tvg-name="Kanal D"tvg-id="KanalD.tr" tvg-logo="https://i.imgur.com/ULv7b06.png" group-title="ULUSAL",Kanal D
@@ -27,7 +27,8 @@ http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/97921
 #EXTINF:-1 tvg-name="ShowMax"tvg-id="ShowMAX.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DMAX_BLACK.svg/512px-DMAX_BLACK.svg.png"group-title="EĞLENCE",SHOWMAX
 http://stream.tvcdn.net/eglence/show-max.m3u8
 
---- |HABER| ---
+#EXTINF:-1 tvg-id="" tvg-name="--- |HABER KANALLARI| ---" tvg-logo="" group-title="TR | HABER",--- |HABER KANALLARI| ---
+
 #EXTINF:-1 tvg-name="Bloomberg HT"tvg-id="BloombergHT.tr" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bloomberg-ht-us-tr.png"group-title="HABER",Bloomberg HT
 http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/97891
 #EXTINF:-1 tvg-id="" tvg-name="TR: SoZCu TV" tvg-logo="https://i.ibb.co/B40rjP3/szc1.png" tvg-id2="" group-title="🇹🇷 [01] Türk: Çocuk:",TR: Sözcü TV
@@ -55,8 +56,8 @@ http://stream.tvcdn.net/diger/kisisel-gelisim-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/f438ceb7-c0a8-4b3c-9415-aea43a02b93e.png" group-title="EĞLENCE",Tarih TV
 http://stream.tvcdn.net/eglence/tarih-tv.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="--- |TÜRK FİLMLERİ| ---" tvg-logo="" group-title="TR | TÜRK FİLMLERİ",--- |TÜRK FİLMLERİ| ---
 
-#EXTINF:-1 --- |TÜRK FİLMLERİ| ---
 #EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/6ec6e894-25f3-4432-8cb3-dbd2ff783842.png" group-title="FILM",Şaban TV
 http://stream.tvcdn.net/diger-eglence/saban-tv.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/6ec6e894-25f3-4432-8cb3-dbd2ff783842.png" group-title="FILM",Şaban TV 2 (Arzu Film)
@@ -84,13 +85,13 @@ http://stream.tvcdn.net/diger-eglence/tivi-turk.m3u8
 #EXTINF:1,TÜRK FİLMLERİ TV (ZEKİ & METİN) - YOUTUBE
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/turkfilmleritv.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="--- |RAHATLATICI| ---" tvg-logo="" group-title="TR | SCREENSAVER",--- |RAHATLATICI| ---
 
-#EXTINF:-1 --- |RAHATLATICI| ---
 #EXTINF:-1 tvg-name="Ateş Başı" tvg-language="Russian" tvg-country="RU" tvg-id="Rahat_AtesBasi" tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/b524a99a-92d1-49a4-bb81-fda99617db2c.png" group-title="Rahatlatıcı",Ateş Başı
 https://ythls-v3.onrender.com/channel/UCMlIZGBeueCZBUmEP-PddJg.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="--- |BELGESEL| ---" tvg-logo="" group-title="TR | BELGESEL",--- |BELGESEL| ---
 
-#EXTINF:-1 --- |BELGESEL| ---
 #EXTINF:-1 tvg-id="beiniz.tr" tvg-name="TR: bieN IZ HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-iz-qa-tr.png" group-title="TR | BELGESEL",TR: bieN IZ HD+
 http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/18563
 #EXTINF:-1 tvg-id="" tvg-name="TR: National Geographic HD+" tvg-logo="https://begenal.shop//resim/galeri_MTY0M_421.png" group-title="TR | BELGESEL",TR: National Geographic HD+
@@ -135,7 +136,8 @@ http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/259797
 http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/219400
 
 
-#EXTINF:-1 --- |FİLM| ---
+#EXTINF:-1 tvg-id="" tvg-name="#### D-SMRT & TVBU SİNEMA ####" tvg-logo="" group-title="TR | SINEMA",--- |D-SMR & TVBU SİNEMA| ---
+
 SINEMA",TR: SINEMA TV AILE 2 HD+
 http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/363
 #EXTINF:-1 tvg-id="sinematvhd.tr" tvg-name="TR: SINEMA TV HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-tv-tr.png" group-title="TR | D-SMART & TIVIBU SINEMA",TR: SINEMA TV HD+
@@ -158,6 +160,9 @@ http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/367
 http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/368
 #EXTINF:-1 tvg-id="filmbox.tr" tvg-name="TR: FILMBOX HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fx_us.png" group-title="TR | D-SMART & TIVIBU SINEMA",TR: FILMBOX HD+
 http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/362966
+
+#EXTINF:-1 tvg-id="" tvg-name="#### bın SİNEMA ####" tvg-logo="" group-title="TR | SINEMA",--- |BİN SİNEMA| ---
+
 #EXTINF:-1 tvg-id="beinboxoffice1.tr" tvg-name="TR: b**N B0X 0FFİCE 1 HD+" tvg-logo="https://contentlibrary.digiturk.com.tr/Channel/36/Image/box_office1_205x150_2022.png" group-title="TR | beIN MEDIA SINEMA",TR: b**N B0X 0FFİCE 1 HD+
 http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/362968
 #EXTINF:-1 tvg-id="beinboxoffice2.tr" tvg-name="TR: b**N B0X 0FFİCE 2 HD+" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/beIN_Box_Office_2_TR_logo.png" group-title="TR | beIN MEDIA SINEMA",TR: b**N B0X 0FFİCE 2 HD+
@@ -178,8 +183,9 @@ http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/106621
 http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/106622
 #EXTINF:-1 tvg-id="360.tr" tvg-name="TR: b**N M0VIES ACTI0N 2 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-movies-action-2-qa-tr.png" group-title="TR | beIN MEDIA SINEMA",TR: b**N M0VIES ACTI0N 2 HD+
 http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/318
-#EXTINF:-1 tvg-id="" tvg-name="#### TURK SİNEMA ####" tvg-logo="" group-title="TR | SINEMA",#### TURK SİNEMA ####
-http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/123
+
+#EXTINF:-1 tvg-id="" tvg-name="#### CineMxmum SİNEMA ####" tvg-logo="" group-title="TR | SINEMA",--- |CİNEMXMUM SİNEMA| ---
+
 #EXTINF:-1 tvg-id="" tvg-name="TR: Cinemaximum Aksiyon" tvg-logo="" group-title="TR | SINEMA",TR: Cinemaximum Aksiyon
 http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/419716
 #EXTINF:-1 tvg-id="" tvg-name="TR: Cinemaximum Animasyon" tvg-logo="" group-title="TR | SINEMA",TR: Cinemaximum Animasyon
@@ -214,13 +220,16 @@ http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/419702
 http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/419701
 #EXTINF:-1 tvg-id="" tvg-name="TR: Cinemaximum Yerli 5" tvg-logo="" group-title="TR | SINEMA",TR: Cinemaximum Yerli 5
 http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/419700
+
+#EXTINF:-1 tvg-id="" tvg-name="#### Flmx SİNEMA ####" tvg-logo="" group-title="TR | SINEMA",--- |FLMX SİNEMA| ---
+
 #EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Netflix HD" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | SINEMA",TR: FILMAX Netflix HD
 http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/185254
 #EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX DISNEY" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | SINEMA",TR: FILMAX DISNEY
 http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/259605
 
+---#EXTINF:-1 tvg-id="" tvg-name="#### Flmx SİNEMA ####" tvg-logo="" group-title="TR | SINEMA",--- |ÇOCUK KANALLARI| ---
 
-#EXTINF:-1 --- |ÇOCUK KANALLARI| ---
 #EXTINF:-1 tvg-id="babytv.tr" tvg-name="TR: Baby TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fffb2b8070bf9f6d1fb83b084f3e2964.png" tvg-id2="" group-title="ÇOCUK",TR: Baby TV
 http://iptvtree.net:8080/d1823794/40bcdac324/634
 #EXTINF:-1 tvg-id="" tvg-name="TR: Boomerang" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/51dcf23cb9d1f7f16b31373e2e17aa16.png" tvg-id2="" group-title="ÇOCUK",TR: Boomerang
