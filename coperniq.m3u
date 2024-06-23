@@ -78,30 +78,14 @@ http://stream.tvcdn.net/diger-eglence/tv-90.m3u8
 http://stream.tvcdn.net/diger-eglence/zeki-metin.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/917ae8e7-cebb-4647-9fe7-8e9529088d73.png" group-title="Diğer-Eğlence",Tivi Türk
 http://stream.tvcdn.net/diger-eglence/tivi-turk.m3u8
-#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e71e4333-6c16-4da2-8424-14201272961e.jpg" group-title="Diğer-Eğlence",Türk Filmleri 
-http://stream.tvcdn.net/diger-eglence/turk-filmleri.m3u8
-#EXTINF:1 tvg-id="" group-title="Diğer-Eğlence",TV 70
-http://stream.tvcdn.net/diger-eglence/tv-70.m3u8
 #EXTINF:1,TÜRK FİLMLERİ TV (ZEKİ & METİN) - YOUTUBE
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/turkfilmleritv.m3u8
 
 #EXTINF:-1 --- |RAHATLATICI| ---
 #EXTINF:-1 tvg-name="Ateş Başı" tvg-language="Russian" tvg-country="RU" tvg-id="Rahat_AtesBasi" tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/b524a99a-92d1-49a4-bb81-fda99617db2c.png" group-title="Rahatlatıcı",Ateş Başı
 https://ythls-v3.onrender.com/channel/UCMlIZGBeueCZBUmEP-PddJg.m3u8
-#EXTINF:-1 tvg-name="Bulutlar" tvg-language="Russian" tvg-country="RU" tvg-id="Rahat_Bulutlar" tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/a40024aa-80af-4119-ab46-581fb2bafaa2.png" group-title="Rahatlatıcı",Bulutlar
-https://grandcentral.1plus1.video/vod/partner/viasat/202310/8347227284d5366ac2be696a34f0330c8961d62f988d55c01227759775880725/620c434ac065fbce0a792afd1f8c46fb/1700826826?return_http=true
-#EXTINF:-1 tvg-name="Hava" tvg-language="Russian" tvg-country="RU" tvg-id="Rahat_Hava" tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/6017815b-527d-4dfe-9019-8ebb5e940293.png" group-title="Rahatlatıcı",Hava
-https://grandcentral.1plus1.video/vod/partner/viasat/202311/96e84cc8fa1ded5ac6aea67cbf6cc664c17174894565a0e27825825e2057404d/a2407e3840e08e24db7962c4b63f8732/1700826938?return_http=true
-#EXTINF:-1 tvg-name="Kar" tvg-language="Russian" tvg-country="RU" tvg-id="Rahat_Kar" tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/8d49b1bd-ed3b-40de-bfc7-0565c8737691.png" group-title="Rahatlatıcı",Kar
-https://grandcentral.1plus1.video/vod/partner/viasat/202211/9e1ed4c8fa7650eeb40fc8a450f278f0e739293c369df72e9626c6d843031ec0/00b3c4331364086ad4b5f2a5dc32a33e/1700826397?return_http=true
-
 
 #EXTINF:-1 --- |FİLM| ---
-#EXTINF:-1 tvg-id="beinboxoffice1.tr" tvg-name="TR: beIN Box Office 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/bd21663ad8c4d4c1ac6440b3f40ba746.png" tvg-id2="" group-title="🇹🇷 [01] Türk: Film:",TR: beIN Movies 1
-http://iptv.am000.tv:8000/live/add17/add17/387.ts
-
-
-
 
 #EXTINF:-1 --- |ÇOCUK KANALLARI| ---
 #EXTINF:-1 tvg-id="babytv.tr" tvg-name="TR: Baby TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fffb2b8070bf9f6d1fb83b084f3e2964.png" tvg-id2="" group-title="ÇOCUK",TR: Baby TV
