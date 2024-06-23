@@ -1,0 +1,253 @@
+" group-title=https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/tr/dsmart.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/tr/turksatkablo.com.tr.epg.xml,https://my.iptv.community/epg_temp_dl/output-epgs/turkey.xml"
+--- |ULUSAL| ---
+#EXTINF:-1 tvg-name="Show TV"tvg-id="ShowTV.tr" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/show_250x150.png"group-title="ULUSAL",Show TV
+https://ciner-live.daioncdn.net/showtv/showtv.m3u8
+#EXTINF:-1 tvg-name="Kanal D"tvg-id="KanalD.tr" tvg-logo="https://i.imgur.com/ULv7b06.png" group-title="ULUSAL",Kanal D
+https://gineu10.bozztv.com/gin-36bay4/gt-kanald-2/index.m3u8
+#EXTINF:-1 tvg-name="Star TV"tvg-id="StarTV.tr" tvg-logo="https://i.imgur.com/le0hb7q.png"group-title="ULUSAL",Star TV
+https://dogus-live.daioncdn.net/startv/startv.m3u8
+#EXTINF:-1 tvg-name="Now"tvg-id="Now.tr" tvg-logo="https://logowik.com/content/uploads/images/now-tv-red26275.logowik.com.webp"group-title="ULUSAL",NOW
+https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
+#EXTINF:-1 tvg-name="ATV"tvg-id="ATV.tr" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/aHD_250x150.png"group-title="ULUSAL",ATV
+http://stream.tvcdn.net/ulusal/atv.m3u8
+#EXTINF:-1 tvg-name="TLC Turkey"tvg-id="TLCTurkey.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png"group-title="EĞLENCE",TLC
+https://tlc.blutv.com/blutv_tlc_live/live.m3u8
+#EXTINF:-1 tvg-name="TV 8"tvg-id="TV8.tr" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/TV8_250x150.png"group-title="EĞLENCE",TV 8
+http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/251
+#EXTINF:1 tvg-id="TV85.tr" tvg-logo="http://assets.tvcdn.net/be26f47c-18d7-4447-971c-ca4ba60ffb4c.png" group-title="EĞLENCE",TV8.5
+http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/222
+#EXTINF:-1 tvg-name="360"tvg-id="360.tr" tvg-logo="https://i.imgur.com/eXKohZ5.png"group-title="EĞLENCE",360
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+#EXTINF:-1 tvg-id="beyaztv.tr" tvg-name="TR: BEYAZ TV HD" tvg-logo="https://begenal.shop//resim/galeri_MTY2N_157.png" group-title="TR | ULUSAL",TR: BEYAZ TV HD
+http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/219
+#EXTINF:-1 tvg-id="teve2.tr" tvg-name="TR: TEVE 2 HD+" tvg-logo="https://begenal.shop//resim/galeri_MTY2N_135.png" group-title="TR | ULUSAL",TR: TEVE 2 HD+
+http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/257
+#EXTINF:-1 tvg-name="DMAX Turkey"tvg-id="DMAXTurkey.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DMAX_BLACK.svg/512px-DMAX_BLACK.svg.png"group-title="EĞLENCE",DMAX
+https://dogus-live.daioncdn.net/dmax/dmax.m3u8
+#EXTINF:-1 tvg-name="DMAX Turkey HD"tvg-id="DMAXTurkeyHD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DMAX_BLACK.svg/512px-DMAX_BLACK.svg.png"group-title="EĞLENCE",DMAX HD
+http://canli.haber365.com.tr/tr/dmax/index.m3u8
+#EXTINF:-1 tvg-name="ShowMax"tvg-id="ShowMAX.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DMAX_BLACK.svg/512px-DMAX_BLACK.svg.png"group-title="EĞLENCE",SHOWMAX
+http://stream.tvcdn.net/eglence/show-max.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/f438ceb7-c0a8-4b3c-9415-aea43a02b93e.png" group-title="EĞLENCE",Tarih TV
+http://stream.tvcdn.net/eglence/tarih-tv.m3u8
+#EXTINF:-1 tvg-name="Bloomberg HT"tvg-id="BloombergHT.tr" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bloomberg-ht-us-tr.png"group-title="HABER",Bloomberg HT
+https://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: SoZCu TV" tvg-logo="https://i.ibb.co/B40rjP3/szc1.png" tvg-id2="" group-title="🇹🇷 [01] Türk: Çocuk:",TR: SoZCu TV
+https://ythls-v3.onrender.com/channel/UCOulx_rep5O4i9y6AyDqVvw.m3u8
+#EXTINF:-1 tvg-name="Habertürk"tvg-id="Haberturk.tr" tvg-logo="https://www.lyngsat.com/logo/tv/hh/haber_turk.png"group-title="HABER",Habertürk
+https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
+#EXTINF:-1 tvg-name="NTV"tvg-id="NTV.tr" tvg-logo="https://www.lyngsat.com/logo/tv/nn/ntv_tr.png"group-title="HABER",NTV
+http://stream.tvcdn.net/haber/ntv.m3u8
+#EXTINF:-1 tvg-name="CNN Turk"tvg-id="CNNTurk.tr" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn_turk.png"group-title="HABER",CNN Turk
+https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
+#EXTINF:-1 tvg-name="TV 4"tvg-id="TV4.tr" tvg-logo="https://i.imgur.com/gnkPxVV.png"group-title="ULUSAL",TV4
+https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
+#EXTINF:-1 tvg-name="TRT 1"tvg-id="TRT1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/512px-TRT_1_logo_%282021-%29.svg.png"group-title="ULUSAL",TRT 1
+http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/229
+#EXTINF:-1 tvg-name="TRT 2"tvg-id="TRT2.tr" tvg-logo="https://i.imgur.com/h9Q88CW.png"group-title="ULUSAL",TRT 2
+https://tv-trt2.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-name="TRT Haber"tvg-id="TRTHaber.tr" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt_haber.png"group-title="HABER",TRT Haber
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-name="TRT Spor"tvg-id="TRTSpor.tr" tvg-logo="https://i.imgur.com/jiTZGme.png"group-title="SPOR",TRT Spor
+https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-name="TRT Çocuk"tvg-id="TRTÇocuk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/TRT_%C3%A7ocuk_logo.png"group-title="ÇOCUK",TRT Çocuk
+http://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e5f501cc-df6b-4b93-b06b-175c6b32cfa5.png" group-title="DİĞER",Kişisel Gelişim TV
+http://stream.tvcdn.net/diger/kisisel-gelisim-tv.m3u8
+
+
+#EXTINF:-1 --- |TÜRK FİLMLERİ| ---
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/6ec6e894-25f3-4432-8cb3-dbd2ff783842.png" group-title="FILM",Şaban TV
+http://stream.tvcdn.net/diger-eglence/saban-tv.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/6ec6e894-25f3-4432-8cb3-dbd2ff783842.png" group-title="FILM",Şaban TV 2 (Arzu Film)
+http://stream.tvcdn.net/diger-eglence/saban-tv-2-arzu-film.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/6ec6e894-25f3-4432-8cb3-dbd2ff783842.png" group-title="FILM",Şaban TV 3 (Gülşah Film)
+http://stream.tvcdn.net/diger-eglence/saban-tv-3-gulsah-film.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/6ec6e894-25f3-4432-8cb3-dbd2ff783842.png" group-title="FILM",Şaban TV 4 (Gülşah Film 2)
+http://stream.tvcdn.net/diger-eglence/saban-tv-4-gulsah-film-2.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/9138c7f6-e52d-4511-9aa2-90c315a2b6ed.png" group-title="FILM",Teleon
+http://stream.tvcdn.net/diger-eglence/teleon.m3u8
+#EXTINF:-1 tvg-name="SuperTurk TV"tvg-id="SuperTurkTV.tr" tvg-logo="https://pbs.twimg.com/media/F-QH1TMXQAAHhKy.png"group-title="FILM",SuperTurk TV
+http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
+#EXTINF:-1 tvg-name="SuperTurk Max"tvg-id="SuperTurkTV.tr" tvg-logo="https://pbs.twimg.com/media/F-QH1TMXQAAHhKy.png"group-title="FILM",SuperTurk MAX
+http://75.119.144.48/SUPERTURK_MAX_HD/index.m3u8
+#EXTINF:-1 tvg-name="Cine1"tvg-id="Cine1.tr" tvg-logo="https://i.ibb.co/SnPFhXS/cnee12.png"group-title="FILM",Cine1 TV
+https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
+#EXTINF:-1 tvg-name="CINE 5" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_CINE5" tvg-logo="https://imgrosetta.mynet.com.tr/file/2194387/728xauto.jpg" group-title="FILM",CINE 5
+https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/795f7c0b-6ae9-452a-b8e7-995423827498.jpg" group-title="Diğer-Eğlence",TV 90
+http://stream.tvcdn.net/diger-eglence/tv-90.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/07d81c3b-e207-4558-b7c5-e38280f06bf0.png" group-title="FILM",Zeki & Metin
+http://stream.tvcdn.net/diger-eglence/zeki-metin.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/917ae8e7-cebb-4647-9fe7-8e9529088d73.png" group-title="Diğer-Eğlence",Tivi Türk
+http://stream.tvcdn.net/diger-eglence/tivi-turk.m3u8
+#EXTINF:1,TÜRK FİLMLERİ TV (ZEKİ & METİN) - YOUTUBE
+https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/turkfilmleritv.m3u8
+
+
+#EXTINF:-1 --- |RAHATLATICI| ---
+#EXTINF:-1 tvg-name="Ateş Başı" tvg-language="Russian" tvg-country="RU" tvg-id="Rahat_AtesBasi" tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/b524a99a-92d1-49a4-bb81-fda99617db2c.png" group-title="Rahatlatıcı",Ateş Başı
+https://ythls-v3.onrender.com/channel/UCMlIZGBeueCZBUmEP-PddJg.m3u8
+
+
+#EXTINF:-1 --- |BELGESEL| ---
+#EXTINF:-1 tvg-id="" tvg-name="TR: National Geographic HD+" tvg-logo="https://begenal.shop//resim/galeri_MTY0M_421.png" group-title="TR | BELGESEL",TR: National Geographic HD+
+http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/17121
+#EXTINF:-1 tvg-id="natgeowild.tr" tvg-name="TR: NAT GEO WILD HD+" tvg-logo="https://begenal.shop//resim/galeri_MTY0M_420.png" group-title="TR | BELGESEL",TR: NAT GEO WILD HD+
+http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/486
+#EXTINF:-1 tvg-id="" tvg-name="TR: DISCOVERY CHANNEL HD" tvg-logo="https://begenal.shop//resim/galeri_MTY0M_424.png" group-title="TR | BELGESEL",TR: DISCOVERY CHANNEL HD
+http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/110611
+#EXTINF:-1 tvg-id="" tvg-name="TR: DISCOVERY SCIENCE HD+" tvg-logo="https://begenal.shop//resim/galeri_MTY0M_417.png" group-title="TR | BELGESEL",TR: DISCOVERY SCIENCE HD+
+http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/489
+#EXTINF:-1 tvg-id="bbcearth.tr" tvg-name="TR: BBC Earth HD" tvg-logo="https://begenal.shop//resim/galeri_MTY0M_418.png" group-title="TR | BELGESEL",TR: BBC Earth HD
+http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/491
+
+
+#EXTINF:-1 --- |FİLM| ---
+SINEMA",TR: SINEMA TV AILE 2 HD+
+http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/363
+#EXTINF:-1 tvg-id="sinematvhd.tr" tvg-name="TR: SINEMA TV HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-tv-tr.png" group-title="TR | D-SMART & TIVIBU SINEMA",TR: SINEMA TV HD+
+http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/358
+#EXTINF:-1 tvg-id="sinema2hd.tr" tvg-name="TR: SINEMA TV 2 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-2-tr.png" group-title="TR | D-SMART & TIVIBU SINEMA",TR: SINEMA TV 2 HD+
+http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/359
+#EXTINF:-1 tvg-id="sinemaaksiyonhd.tr" tvg-name="TR: SINEMA TV ACTION HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-aksiyon-tr.png" group-title="TR | D-SMART & TIVIBU SINEMA",TR: SINEMA TV ACTION HD+
+http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/360
+#EXTINF:-1 tvg-id="sinemaailehd.tr" tvg-name="TR: SINEMA TV AILE HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-aile-tr.png" group-title="TR | D-SMART & TIVIBU SINEMA",TR: SINEMA TV AILE HD+
+http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/362
+#EXTINF:-1 tvg-id="sinemakomedihd.tr" tvg-name="TR: SINEMA TV KOMEDI HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-komedi-tr.png" group-title="TR | D-SMART & TIVIBU SINEMA",TR: SINEMA TV KOMEDI HD+
+http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/364
+#EXTINF:-1 tvg-id="sinemakomedi2hd.tr" tvg-name="TR: SINEMA TV KOMEDI 2 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-komedi-2-tr.png" group-title="TR | D-SMART & TIVIBU SINEMA",TR: SINEMA TV KOMEDI 2 HD+
+http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/365
+#EXTINF:-1 tvg-id="sinemayerli.tr" tvg-name="TR: SINEMA TV YERLI  HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-yerli-tr.png" group-title="TR | D-SMART & TIVIBU SINEMA",TR: SINEMA TV YERLI  HD+
+http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/366
+#EXTINF:-1 tvg-id="sinemayerli2.tr" tvg-name="TR: SINEMA TV YERLI 2 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-yerli-2-tr.png" group-title="TR | D-SMART & TIVIBU SINEMA",TR: SINEMA TV YERLI 2 HD+
+http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/367
+#EXTINF:-1 tvg-id="sinema1001hd.tr" tvg-name="TR: SINEMA TV 1001 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-1001-tr.png" group-title="TR | D-SMART & TIVIBU SINEMA",TR: SINEMA TV 1001 HD+
+http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/368
+#EXTINF:-1 tvg-id="beinboxoffice1.tr" tvg-name="TR: b**N B0X 0FFİCE 1 HD+" tvg-logo="https://contentlibrary.digiturk.com.tr/Channel/36/Image/box_office1_205x150_2022.png" group-title="TR | beIN MEDIA SINEMA",TR: b**N B0X 0FFİCE 1 HD+
+http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/362968
+#EXTINF:-1 tvg-id="beinboxoffice2.tr" tvg-name="TR: b**N B0X 0FFİCE 2 HD+" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/beIN_Box_Office_2_TR_logo.png" group-title="TR | beIN MEDIA SINEMA",TR: b**N B0X 0FFİCE 2 HD+
+http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/362969
+#EXTINF:-1 tvg-id="beinboxoffice3.tr" tvg-name="TR: b**N B0X 0FFİCE 3 HD+" tvg-logo="https://contentlibrary.digiturk.com.tr/Channel/38/Image/box_office3_205x150_2022.png" group-title="TR | beIN MEDIA SINEMA",TR: b**N B0X 0FFİCE 3 HD+
+http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/362970
+#EXTINF:-1 tvg-id="beinmoviespremier.tr" tvg-name="TR: b**N M0VIES P*EMIER HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-movies-premiere-qa-tr.png" group-title="TR | beIN MEDIA SINEMA",TR: b**N M0VIES P*EMIER HD+
+http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/312
+#EXTINF:-1 tvg-id="beinmoviespremiere2.tr" tvg-name="TR: b**N MOVIES P*EMIERE 2 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-movies-premiere-2-qa-tr.png" group-title="TR | beIN MEDIA SINEMA",TR: b**N MOVIES P*EMIERE 2 HD+
+http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/317
+#EXTINF:-1 tvg-id="beinmoviesstars.tr" tvg-name="TR: b**N M0VIES STARS HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-movies-stars-qa-tr.png" group-title="TR | beIN MEDIA SINEMA",TR: b**N M0VIES STARS HD+
+http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/319
+#EXTINF:-1 tvg-id="beinmoviesturk.tr" tvg-name="TR: b**N M0VIES TURK HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-movies-turk-qa-tr.png" group-title="TR | beIN MEDIA SINEMA",TR: b**N M0VIES TURK HD+
+http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/316
+#EXTINF:-1 tvg-id="beinseriescomedy.tr" tvg-name="TR: b**N S*RIES 1 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-series-comedy-qa-tr.png" group-title="TR | beIN MEDIA SINEMA",TR: b**N S*RIES 1 HD+
+http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/309
+#EXTINF:-1 tvg-id="beinseriesscifi.tr" tvg-name="TR: b**N S*RIES 2 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-series-sci-fi-qa-tr.png" group-title="TR | beIN MEDIA SINEMA",TR: b**N S*RIES 2 HD+
+http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/308
+
+
+#EXTINF:-1 --- |ÇOCUK KANALLARI| ---
+#EXTINF:-1 tvg-id="babytv.tr" tvg-name="TR: Baby TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fffb2b8070bf9f6d1fb83b084f3e2964.png" tvg-id2="" group-title="ÇOCUK",TR: Baby TV
+http://iptvtree.net:8080/d1823794/40bcdac324/634
+#EXTINF:-1 tvg-id="" tvg-name="TR: Boomerang" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/51dcf23cb9d1f7f16b31373e2e17aa16.png" tvg-id2="" group-title="ÇOCUK",TR: Boomerang
+http://iptvtree.net:8080/d1823794/40bcdac324/672
+#EXTINF:-1 tvg-id="" tvg-name="TR: Caillou" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/9e1d0ba765969dbf56cc3ee9338a9cfc.png" tvg-id2="" group-title="ÇOCUK",TR: Caillou
+http://iptvtree.net:8080/d1823794/40bcdac324/192581
+#EXTINF:-1 tvg-id="cartoonnetwork.tr" tvg-name="TR: Cartoon Network" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/87598c365695f0ec0734167340a7fbdf.png" tvg-id2="" group-title="ÇOCUK",TR: Cartoon Network
+http://iptvtree.net:8080/d1823794/40bcdac324/8261
+#EXTINF:-1 tvg-id="" tvg-name="TR: CBeebies" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/35d0a04a7465ffb538cc90693a6704b8.png" tvg-id2="" group-title="ÇOCUK",TR: CBeebies
+http://iptvtree.net:8080/d1823794/40bcdac324/1844
+#EXTINF:-1 tvg-id="" tvg-name="TR: Da Vinci" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/335e4ee4cc0197611dddcc8a6110be6d.png" tvg-id2="" group-title="ÇOCUK",TR: Da Vinci
+http://iptvtree.net:8080/d1823794/40bcdac324/1850
+#EXTINF:-1 tvg-id="" tvg-name="TR: Disney Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4b7ef9e32b9c4d64adc3330352ac327f.png" tvg-id2="" group-title="ÇOCUK",TR: Disney Channel
+http://iptvtree.net:8080/d1823794/40bcdac324/278570
+#EXTINF:-1 tvg-id="disneychannel.tr" tvg-name="TR: Disney Junior" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d4bfb7096c986189cad4c27667329846.png" tvg-id2="" group-title="ÇOCUK",TR: Disney Junior
+http://iptvtree.net:8080/d1823794/40bcdac324/633
+#EXTINF:-1 tvg-id="" tvg-name="TR: Manisa TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/1f071b604362eab2378fe007d1806d9a.png" tvg-id2="" group-title="ÇOCUK",TR: Manisa TV
+http://iptvtree.net:8080/d1823794/40bcdac324/286869
+#EXTINF:-1 tvg-id="" tvg-name="TR: Minika Cocuk" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/cd6373e1045f15e3cb8f3b5afd4c7987.png" tvg-id2="" group-title="ÇOCUK",TR: Minika Cocuk
+http://iptvtree.net:8080/d1823794/40bcdac324/671
+#EXTINF:-1 tvg-id="minikago.tr" tvg-name="TR: Minika Go" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/49feee293730b6b2172e746bb4a2a811.png" tvg-id2="" group-title="ÇOCUK",TR: Minika Go
+http://iptvtree.net:8080/d1823794/40bcdac324/662
+#EXTINF:-1 tvg-id="" tvg-name="TR: Nick Junior" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d17ee4121212f3d15a6d3e96e1b78e6b.png" tvg-id2="" group-title="ÇOCUK",TR: Nick Junior
+http://iptvtree.net:8080/d1823794/40bcdac324/675
+#EXTINF:-1 tvg-id="" tvg-name="TR: nickelodeon" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/daa5f52e567a2b32067451aede36afc7.png" tvg-id2="" group-title="ÇOCUK",TR: nickelodeon
+http://iptvtree.net:8080/d1823794/40bcdac324/278469
+#EXTINF:-1 tvg-id="trtcocuk.tr" tvg-name="TR: TRT Cocuk" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4c97918044ad2996399fd692049b7397.png" tvg-id2="" group-title="ÇOCUK",TR: TRT Cocuk
+http://iptvtree.net:8080/d1823794/40bcdac324/629
+#EXTINF:-1 tvg-id="" tvg-name="TR: Zarok TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8bedf2978f03f6bbc9a630a56d8fbc45.png" tvg-id2="" group-title="ÇOCUK",TR: Zarok TV
+http://iptvtree.net:8080/d1823794/40bcdac324/14893
+#EXTINF:-1 tvg-id="" tvg-name="TR: Çocuk Smart" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ea19100b30aec6cd0d72047356274356.png" tvg-id2="" group-title="ÇOCUK",TR: Çocuk Smart
+http://iptvtree.net:8080/d1823794/40bcdac324/1851
+
+#EXTINF:-1 --- |ROMANIA| ---
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w46x9LM/tvri.png",TVR INT
+https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9GHhm6L/ant1ro.png",ANTENA 1 RO
+https://live1ag.antenaplay.ro/live_a1ro/live_a1ro.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FJbq1ML/a3ro.jpg",ANTENA 3 VOX
+https://live3vox.antenaplay.ro/a3free/a3free.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8Mngyds/kd1ro.png",KANAL D RO
+https://stream1.kanald.ro/iphone/knd-live.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gMNsZPf/kd2ro.png",KANAL D2 RO
+https://stream2.kanald.ro/iphone/knd-live.m3u8
+
+#EXTINF:-1 --- |WORLDWIDE NEWS| ---
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png"group-title="WORLDWIDE NEWS",CNN INT
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hdBrzcc/fox.png"group-title="WORLDWIDE NEWS",FOX NEWS
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CKTjvj8/nbc.jpg"group-title="WORLDWIDE NEWS",NBC NEWS
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_nbcnewsnow_001.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jJDxCxN/abc.jpg"group-title="WORLDWIDE NEWS",ABC NEWS
+https://d2fewflvrapcwe.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fdwnvbyln7gak-ssai-prd/ABCNewsLive_Disney.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YD3G64y/cbs.jpg"group-title="WORLDWIDE NEWS",CBS NEWS
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nDJHCWt/Usatod.png"group-title="WORLDWIDE NEWS",USA TODAY
+https://lnc-usa-today.tubi.video/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dPmZMqq/bbcn.png"group-title="WORLDWIDE NEWS",BBC NEWS
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/pc_hd_abr_v2.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Nn5x9Hq/bloom.jpg"group-title="WORLDWIDE NEWS",BLOOMBERG US
+https://0984ed0046994029aafaa07692005474.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Bloomberg/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Nn5x9Hq/bloom.jpg"group-title="WORLDWIDE NEWS",BLOOMBERG EU
+https://bloomberg-bloombergtv-5-eu.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Nn5x9Hq/bloom.jpg"group-title="WORLDWIDE NEWS",BLOOMBERG ORIGINALS
+https://ab1455372fed47d8a88264bab4831d5c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_QuickTake-1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R4xVMYc/enews.png"group-title="WORLDWIDE NEWS",EURONEWS EN
+https://62d77612985e4978b5cec13c47c897b5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_EuroNewsLive-1/playlist.m3u8
+
+#EXTINF:-1 --- |MUSIC CHANNELS| ---
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mywSdSQ/att.png" group-title="|MUSIC|",--- |MUSIC CHANNELS| ---
+https://github.com/ipstreet312/freeiptv/raw/master/ressources/infos/barkers/blogv.ts
+#EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/92b15cce-55df-4138-a88e-e1c222eab7c9.png" group-title="MÜZİK",Sıla TV
+http://stream.tvcdn.net/diger-muzik/sila-tv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6t2ztJT/dlxmsc.png"group-title="MÜZİK",DELUXE MUSIC English
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jZWbT2g/dlxfbk.png"group-title="MÜZİK",DELUXE MUSIC Flash Back
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65185/65185_264_live.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2ks2Ys7/dlxdnc.png"group-title="MÜZİK",DELUXE MUSIC Dance
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WBKwntS/dlxrap.png"group-title="MÜZİK",DELUXE MUSIC Rap
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mDFLYx3/dlxrck.png"group-title="MÜZİK",DELUXE MUSIC Rock
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65181/65181_264_live.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TmL52ct/dlxde.png"group-title="MÜZİK",DELUXE MUSIC Deutsch Schlager
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RvHVvn/dlxdtschpp.png"group-title="MÜZİK",DELUXE MUSIC Deutsch Pop
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/95d6544c-4164-11ec-9c7c-2cf753b8a203/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1KhQxpd/dlxwnt.png"group-title="MÜZİK",DELUXE MUSIC Winter Time
+https://d2l1hs6hxlg3df.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pb0nloqsgtwc2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RpfpWkr/dlxlng.png"group-title="MÜZİK",DELUXE MUSIC Lounge
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2664
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RpfpWkr/dlxlng.png"group-title="MÜZİK",DELUXE MUSIC Lounge
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2489
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pKt53kX/dl1.png"group-title="MÜZİK",DELUXE MUSIC Lounge Extra
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/8ef13d2a-80c1-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=FR&vendor=samsung
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pKt53kX/dl1.png"group-title="MÜZİK",DELUXE MUSIC Lounge Extra
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/ec8e5c43-6fae-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung
+
+#EXTINF:-1 --- |OTHERS| ---
+#EXTINF:1,EARTH TV THE WORLD LIVE ORIGINAL - YOUTUBE
+https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/earthtv_original.m3u8
+#EXTINF:1,EARTH TV THE WORLD LIVE SHOWCASE - YOUTUBE
+https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/earthtv_showcase.m3u8
+#EXTINF:1,EARTH TV WHITE HOUSE - YOUTUBE
+https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/earthtv_whouse.m3u8
