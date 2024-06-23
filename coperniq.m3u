@@ -23,10 +23,12 @@ https://dogus-live.daioncdn.net/dmax/dmax.m3u8
 http://canli.haber365.com.tr/tr/dmax/index.m3u8
 #EXTINF:-1 tvg-name="ShowMax"tvg-id="ShowMAX.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DMAX_BLACK.svg/512px-DMAX_BLACK.svg.png"group-title="EĞLENCE",SHOWMAX
 http://stream.tvcdn.net/eglence/show-max.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/f438ceb7-c0a8-4b3c-9415-aea43a02b93e.png" group-title="EĞLENCE",Tarih TV
+http://stream.tvcdn.net/eglence/tarih-tv.m3u8
 #EXTINF:-1 tvg-name="Bloomberg HT"tvg-id="BloombergHT.tr" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bloomberg-ht-us-tr.png"group-title="HABER",Bloomberg HT
 https://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: SoZCu TV" tvg-logo="https://i.ibb.co/B40rjP3/szc1.png" tvg-id2="" group-title="🇹🇷 [01] Türk: Çocuk:",TR: SoZCu TV
-https://mn-nl.mncdn.com/blutv_szctv/live.m3u8
+https://ythls-v3.onrender.com/channel/UCOulx_rep5O4i9y6AyDqVvw.m3u8
 #EXTINF:-1 tvg-name="Habertürk"tvg-id="Haberturk.tr" tvg-logo="https://www.lyngsat.com/logo/tv/hh/haber_turk.png"group-title="HABER",Habertürk
 https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
 #EXTINF:-1 tvg-name="NTV"tvg-id="NTV.tr" tvg-logo="https://www.lyngsat.com/logo/tv/nn/ntv_tr.png"group-title="HABER",NTV
