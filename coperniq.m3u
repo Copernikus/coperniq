@@ -1,4 +1,4 @@
-#EXTGRP:"--- |ULUSAL KANALLAR| ---"
+#--- |ULUSAL KANALLAR| ---
 
 #EXTINF:-1 tvg-name="Show TV"tvg-id="ShowTV.tr" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/show_250x150.png"group-title="ULUSAL",Show TV
 http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/233
@@ -27,7 +27,7 @@ http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/97921
 #EXTINF:-1 tvg-name="ShowMax"tvg-id="ShowMAX.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DMAX_BLACK.svg/512px-DMAX_BLACK.svg.png"group-title="EĞLENCE",SHOWMAX
 http://stream.tvcdn.net/eglence/show-max.m3u8
 
-#EXTGRP:"--- |HABER KANALLARI| ---"
+#"--- |HABER KANALLARI| ---"
 
 #EXTINF:-1 tvg-name="Bloomberg HT"tvg-id="BloombergHT.tr" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bloomberg-ht-us-tr.png"group-title="HABER",Bloomberg HT
 http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/97891
