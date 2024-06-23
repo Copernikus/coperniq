@@ -37,8 +37,6 @@ http://stream.tvcdn.net/haber/ntv.m3u8
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
 #EXTINF:-1 tvg-name="TV 4"tvg-id="TV4.tr" tvg-logo="https://i.imgur.com/gnkPxVV.png"group-title="ULUSAL",TV4
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
-#EXTINF:-1 tvg-name="Teve2"tvg-id="Teve2.tr" tvg-logo="https://www.lyngsat.com/logo/tv/tt/teve_2_tr.png"group-title="ULUSAL",Teve 2
-https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
 #EXTINF:-1 tvg-name="TRT 1"tvg-id="TRT1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/512px-TRT_1_logo_%282021-%29.svg.png"group-title="ULUSAL",TRT 1
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?app=web
 #EXTINF:-1 tvg-name="TRT 2"tvg-id="TRT2.tr" tvg-logo="https://i.imgur.com/h9Q88CW.png"group-title="ULUSAL",TRT 2
