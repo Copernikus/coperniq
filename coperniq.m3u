@@ -12,7 +12,7 @@ http://stream.tvcdn.net/ulusal/atv.m3u8
 #EXTINF:-1 tvg-name="TLC Turkey"tvg-id="TLCTurkey.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png"group-title="EĞLENCE",TLC
 https://tlc.blutv.com/blutv_tlc_live/live.m3u8
 #EXTINF:-1 tvg-name="TV 8"tvg-id="TV8.tr" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/TV8_250x150.png"group-title="EĞLENCE",TV 8
-https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
 #EXTINF:1 tvg-id="TV85.tr" tvg-logo="http://assets.tvcdn.net/be26f47c-18d7-4447-971c-ca4ba60ffb4c.png" group-title="EĞLENCE",TV8.5
 http://stream.tvcdn.net/eglence/tv8-5.m3u8
 #EXTINF:-1 tvg-name="360"tvg-id="360.tr" tvg-logo="https://i.imgur.com/eXKohZ5.png"group-title="EĞLENCE",360
@@ -122,12 +122,12 @@ https://grandcentral.1plus1.video/vod/partner/viasat/202304/985acdefe277ffba5632
 https://grandcentral.1plus1.video/vod/partner/viasat/202309/5d92d64973b1d9a280046c50eb1390529027247504f9b155ce3810f3cb9900af/e671942cd8b66f57c528afa77ac8bb47/1700827296?return_http=true
 
 #EXTINF:-1 --- |FİLM| ---
-#EXTINF:-1 tvg-id="beinboxoffice1.tr" tvg-name="TR: beIN Box Office 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/bd21663ad8c4d4c1ac6440b3f40ba746.png" tvg-id2="" group-title="🇹🇷 [01] Türk: Film:",TR: beIN Box Office 1
-http://iptvtree.net:8080/d1823794/40bcdac324/536
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Box Office 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/adea4a88280fb88d0c2232343a33a69e.png" tvg-id2="" group-title="🇹🇷 [01] Türk: Film:",TR: beIN Box Office 2
-http://iptvtree.net:8080/d1823794/40bcdac324/281863
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Box Office Turk" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/f35c4aa1c5be07033c105aa2a264ee99.png" tvg-id2="" group-title="🇹🇷 [01] Türk: Film:",TR: beIN Box Office Turk
-http://iptvtree.net:8080/d1823794/40bcdac324/539
+#EXTINF:-1 tvg-id="beinboxoffice1.tr" tvg-name="TR: beIN Box Office 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/bd21663ad8c4d4c1ac6440b3f40ba746.png" tvg-id2="" group-title="🇹🇷 [01] Türk: Film:",TR: beIN Movies 1
+http://iptv.am000.tv:8000/live/add17/add17/387.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Box Office 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/adea4a88280fb88d0c2232343a33a69e.png" tvg-id2="" group-title="🇹🇷 [01] Türk: Film:",TR: beIN Movies 2
+http://iptv.am000.tv:8000/live/add17/add17/343.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Box Office Turk" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/f35c4aa1c5be07033c105aa2a264ee99.png" tvg-id2="" group-title="🇹🇷 [01] Türk: Film:",TR: beIN Movies 3
+http://iptv.am000.tv:8000/live/add17/add17/534.ts
 #EXTINF:-1 tvg-id="beinmoviesaction.tr" tvg-name="TR: beIN Film:s Action" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ca1d2bb923338f5d520918b981135d91.png" tvg-id2="" group-title="🇹🇷 [01] Türk: Film:",TR: beIN Film:s Action
 http://iptvtree.net:8080/d1823794/40bcdac324/1761
 #EXTINF:-1 tvg-id="beinmoviespremiere2.tr" tvg-name="TR: beIN Film:s Premiere 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8132ccbeac2354ea63bf6b409a16a261.png" tvg-id2="" group-title="🇹🇷 [01] Türk: Film:",TR: beIN Film:s Premiere 2
@@ -156,6 +156,44 @@ http://iptvtree.net:8080/d1823794/40bcdac324/43541
 http://iptvtree.net:8080/d1823794/40bcdac324/1790
 #EXTINF:-1 tvg-id="" tvg-name="TR: Sinema Yerli" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8bf3379c2ea4f51aec7ecee160cfc211.png" tvg-id2="" group-title="🇹🇷 [01] Türk: Film:",TR: Sinema Yerli
 http://iptvtree.net:8080/d1823794/40bcdac324/1791
+#EXTINF:-1,OSN-CINEMA1
+http://iptv.am000.tv:8000/live/add17/add17/153.ts
+#EXTINF:-1,OSN_Cinma_2
+http://iptv.am000.tv:8000/live/add17/add17/403.ts
+#EXTINF:-1,OSN-MOVIES-ACTION
+http://iptv.am000.tv:8000/live/add17/add17/26.ts
+#EXTINF:-1,OSN-MOVIES-ACTION+2
+http://iptv.am000.tv:8000/live/add17/add17/18.ts
+#EXTINF:-1,OSN-MOVIES-HD
+http://iptv.am000.tv:8000/live/add17/add17/25.ts
+#EXTINF:-1,OSN-MOVIES-DRAMA
+http://iptv.am000.tv:8000/live/add17/add17/19.ts
+#EXTINF:-1,OSN-MOVIES-premier
+http://iptv.am000.tv:8000/live/add17/add17/323.ts
+#EXTINF:-1,OSN-MOVIES-premier2
+http://iptv.am000.tv:8000/live/add17/add17/412.ts
+#EXTINF:-1,OSN-Movie-FESTIVAL
+http://iptv.am000.tv:8000/live/add17/add17/27.ts
+#EXTINF:-1,OSN-MOVIES-Comedy
+http://iptv.am000.tv:8000/live/add17/add17/292.ts
+#EXTINF:-1,OSN-StarMovie
+http://iptv.am000.tv:8000/live/add17/add17/454.ts
+#EXTINF:-1,OSN_Starworld
+http://iptv.am000.tv:8000/live/add17/add17/151.ts
+#EXTINF:-1,OSN-BoxOffice
+http://iptv.am000.tv:8000/live/add17/add17/399.ts
+#EXTINF:-1,OSN-BoxOffice1
+http://iptv.am000.tv:8000/live/add17/add17/109.ts
+#EXTINF:-1,OSN-FIGHT-HD
+http://iptv.am000.tv:8000/live/add17/add17/625.ts
+#EXTINF:-1,Bein-Movies1
+http://iptv.am000.tv:8000/live/add17/add17/387.ts
+#EXTINF:-1,Bein-Movies2
+http://iptv.am000.tv:8000/live/add17/add17/343.ts
+#EXTINF:-1,Bein-Movies3
+http://iptv.am000.tv:8000/live/add17/add17/534.ts
+#EXTINF:-1,OSN-Disney
+http://iptv.am000.tv:8000/live/add17/add17/404.ts
 
 
 
