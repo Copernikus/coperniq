@@ -1,4 +1,5 @@
 #EXTINF:-1 tvg-id="" tvg-name="--- |ULUSAL KANALLAR| ---" tvg-logo="" group-title="TR | ULUSAL",--- |ULUSAL KANALLAR| ---
+https://
 
 #EXTINF:-1 tvg-name="Show TV"tvg-id="ShowTV.tr" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/show_250x150.png"group-title="ULUSAL",Show TV
 http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/233
@@ -28,6 +29,7 @@ http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/97921
 http://stream.tvcdn.net/eglence/show-max.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="--- |HABER KANALLARI| ---" tvg-logo="" group-title="TR | HABER",--- |HABER KANALLARI| ---
+https://
 
 #EXTINF:-1 tvg-name="Bloomberg HT"tvg-id="BloombergHT.tr" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bloomberg-ht-us-tr.png"group-title="HABER",Bloomberg HT
 http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/97891
@@ -57,6 +59,7 @@ http://stream.tvcdn.net/diger/kisisel-gelisim-tv.m3u8
 http://stream.tvcdn.net/eglence/tarih-tv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="--- |TÜRK FİLMLERİ| ---" tvg-logo="" group-title="TR | TÜRK FİLMLERİ",--- |TÜRK FİLMLERİ| ---
+https://
 
 #EXTINF:1 tvg-id="" tvg-logo="http://assets.tvcdn.net/6ec6e894-25f3-4432-8cb3-dbd2ff783842.png" group-title="FILM",Şaban TV
 http://stream.tvcdn.net/diger-eglence/saban-tv.m3u8
@@ -86,11 +89,13 @@ http://stream.tvcdn.net/diger-eglence/tivi-turk.m3u8
 https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/turkfilmleritv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="--- |RAHATLATICI| ---" tvg-logo="" group-title="TR | SCREENSAVER",--- |RAHATLATICI| ---
+https://
 
 #EXTINF:-1 tvg-name="Ateş Başı" tvg-language="Russian" tvg-country="RU" tvg-id="Rahat_AtesBasi" tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/b524a99a-92d1-49a4-bb81-fda99617db2c.png" group-title="Rahatlatıcı",Ateş Başı
 https://ythls-v3.onrender.com/channel/UCMlIZGBeueCZBUmEP-PddJg.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="--- |BELGESEL| ---" tvg-logo="" group-title="TR | BELGESEL",--- |BELGESEL| ---
+https://
 
 #EXTINF:-1 tvg-id="beiniz.tr" tvg-name="TR: bieN IZ HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-iz-qa-tr.png" group-title="TR | BELGESEL",TR: bieN IZ HD+
 http://xruistream.bio:8080/PZ4ktRbgdTvy/WTGxp5RV3hLL/18563
